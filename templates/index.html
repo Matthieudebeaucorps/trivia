@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trivia Game</title>
+</head>
+<body>
+    <h1>Welcome to the Trivia Game</h1>
+    <form action="/question" method="get">
+        <label for="category">Choose a category:</label>
+        <select name="category" id="category">
+            {% for category in categories %}
+            <option value="{{ category }}">{{ category }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Start">
+    </form>
+</body>
+</html>

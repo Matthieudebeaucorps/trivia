@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trivia Question</title>
+</head>
+<body>
+    <h2>{{ question_row.Questions }}</h2>
+    <form action="" method="post">
+        {% for option in ['A', 'B', 'C', 'D'] %}
+        <input type="radio" id="option{{ option }}" name="answer" value="{{ option }}">
+        <label for="option{{ option }}">{{ option }}) {{ question_row[option] }}</label><br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
