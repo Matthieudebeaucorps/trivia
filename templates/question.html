@@ -2,15 +2,33 @@
 <html>
 <head>
     <title>Trivia Question</title>
+    <style>
+        body { background-color: #333; color: #f5deb3; font-family: 'Arial', sans-serif; text-align: center; padding: 20px; }
+        form { margin: 20px auto; display: inline-block; }
+        input[type="radio"], label { margin: 10px; font-size: 16px; }
+        button { background-color: #555; color: #f5deb3; border: none; padding: 10px 20px; cursor: pointer; transition: background-color 0.3s ease; }
+        button:hover { background-color: #777; }
+    </style>
 </head>
 <body>
-    <h2>{{ question_row.Questions }}</h2>
+    <h2>{{ question_row['Questions'] }}</h2>
     <form action="" method="post">
         {% for option in ['A', 'B', 'C', 'D'] %}
-        <input type="radio" id="option{{ option }}" name="answer" value="{{ option }}">
-        <label for="option{{ option }}">{{ option }}) {{ question_row[option] }}</label><br>
+        <div>
+            <input type="radio" id="option{{ option }}" name="answer" value="{{ option }}">
+            <label for="option{{ option }}">{{ option }}) {{ question_row[option] }}</label>
+        </div>
         {% endfor %}
-        <input type="submit" value="Submit">
+        {% if teams %}
+            <div>Select your team:</div>
+            {% for team_key, team_name in teams.items() %}
+            <div>
+                <input type="radio" id="{{ team_key }}" name="team" value="{{ team_key }}" required>
+                <label for="{{ team_key }}">{{ team_name }}</label>
+            </div>
+            {% endfor %}
+        {% endif %}
+        <button type="submit">Submit Answer</button>
     </form>
 </body>
 </html>

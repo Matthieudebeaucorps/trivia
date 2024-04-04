@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Choose Category</title>
+    <style>
+        body { background-color: #333; color: #f5deb3; font-family: 'Arial', sans-serif; text-align: center; padding: 20px; }
+        select, button { margin: 10px; padding: 8px; }
+        button { background-color: #555; color: #f5deb3; border: none; cursor: pointer; transition: background-color 0.3s ease; }
+        button:hover { background-color: #777; }
+    </style>
+</head>
+<body>
+    <h1>Choose a Category</h1>
+    <form action="/question" method="get">
+        <select name="category">
+            {% for category in categories %}
+            <option value="{{ category }}">{{ category }}</option>
+            {% endfor %}
+        </select>
+        <div>
+            <input type="checkbox" id="mega" name="mega" value="1">
+            <label for="mega">Mega Question (Worth a Medal)</label>
+        </div>
+        <button type="submit">Start</button>
+    </form>
+</body>
+</html>
+
+
+

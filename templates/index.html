@@ -2,17 +2,23 @@
 <html>
 <head>
     <title>Trivia Game</title>
+    <style>
+        body { background-color: #333; color: #f5deb3; font-family: 'Arial', sans-serif; text-align: center; padding: 20px; }
+        input, button { margin: 10px; padding: 8px; }
+        button { background-color: #555; color: #f5deb3; border: none; cursor: pointer; transition: background-color 0.3s ease; }
+        button:hover { background-color: #777; }
+    </style>
 </head>
 <body>
-    <h1>Welcome to the Trivia Game</h1>
-    <form action="/question" method="get">
-        <label for="category">Choose a category:</label>
-        <select name="category" id="category">
-            {% for category in categories %}
-            <option value="{{ category }}">{{ category }}</option>
-            {% endfor %}
-        </select>
-        <input type="submit" value="Start">
+    <h1>La grosse merguez a Gounibe</h1>
+    <form action="" method="post">
+        {% for i in range(1, 5) %}
+        <div>
+            <label for="team{{i}}">Team {{i}} Name:</label>
+            <input type="text" id="team{{i}}" name="team{{i}}" required>
+        </div>
+        {% endfor %}
+        <button type="submit">Start Game</button>
     </form>
 </body>
 </html>
