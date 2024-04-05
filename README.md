@@ -1,32 +1,31 @@
-# OpenTriviaQA
+# Trivial Pursuit 101
 
-A creative commons dataset of trivia, multiple choice questions and answers.
+Based of the datasets available here:
 
 url: [https://github.com/uberspot/OpenTriviaQA](https://github.com/uberspot/OpenTriviaQA)
 
-I searched around some years ago and couldn't find any publicly available dataset of trivia questions so some were 
-gathered and split a bit crudely in categories for public usage.
+## Why?
 
-The general format of the files is:
+Created this repository so that it would run a queston generating interface for quiz nights. The idea is to create a full 4 person game that tracks points and correct answers just as the game Trivial Pursuit does but with 5 medals to obtain (vs. 6 triangles in the original game). I have been wanting to make this game as flexible as possible so all question possibilities on the board will be of 2 categories (since I kept 10 categories in total) and the winner will be the first one to reach 5. 
 
-    #Q A question until the newline
-    ^ The text of the correct answer
-    A multiple choice answer 1
-    B multiple choice answer 2
-    C multiple choice answer 3
-    D ....
-    E ...
-    .....
+## What?
 
-A better format could be used in retrospect but a) this one is easy for humans to edit and change questions b) it can be
-parsed fairly easy to json or something different later on.
+In the repo you will have different folders/scripts so let me detail what they entail:
 
-## Contributing
+#### Jupyter Notebook:
+A full script that runs the quesrtions directly onthe interface but does not allow for a point counting system yet
 
-Just fork the project on github, add your changes and send a pull request
+#### App.py: 
+Script for the game
 
-Possible contributions can be adding more questions/answers, doing finer categorization, writing a quick parser to
-change the files to a better format that is also human friendly.
+#### HTML files:
+All the web files required for the different outcomes of the app.py
+
+#### txt. files:
+database for the questions, located in categories
+
+#### csv files:
+Translated from .txt files (need to be updated as they don't support true or false)
 
 
 ## License
