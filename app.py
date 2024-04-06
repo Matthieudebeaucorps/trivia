@@ -6,7 +6,7 @@ import random
 app = Flask(__name__)
 app.secret_key = 'abc124'  # Your chosen secret key
 
-categories_dir = '/Users/matthieudebeaucorps/Desktop/Projects/OpenTriviaQA/categories csv'
+categories_dir = '/Users/matthieudebeaucorps/Desktop/Projects/OpenTriviaQA/categories_csv'
 categories = ["animals", "geography", "history", "literature", "movies", "music", "science-technology", "sports", "video-games", "world"]
 
 def load_question(category):

@@ -1,0 +1,2362 @@
+[
+  {
+    "question": "Three of these species shed their skin. Which one does not?",
+    "correct": " Penguins",
+    "choices": {
+      "A": "Penguins",
+      "B": "Snakes",
+      "C": "Insects",
+      "D": "Crustaceans"
+    }
+  },
+  {
+    "question": "All of these animals have large ears (relative to their size) except one.",
+    "correct": " Polar bears",
+    "choices": {
+      "A": "Polar bears",
+      "B": "Foxes",
+      "C": "Bats",
+      "D": "Elephants"
+    }
+  },
+  {
+    "question": "This is where the Cobras ribs are situated.",
+    "correct": " Behind its head",
+    "choices": {
+      "A": "Behind its head",
+      "B": "In its chest, around the middle of the body",
+      "C": "Cobras have no ribs",
+      "D": "In its tale"
+    }
+  },
+  {
+    "question": "A baby cobra is fully able to defend itself in as little as this many hours after being born.",
+    "correct": " 3",
+    "choices": {
+      "A": "3",
+      "B": "12",
+      "C": "48",
+      "D": "72"
+    }
+  },
+  {
+    "question": "This endangered turtle is the biggest of all living turtles, reaching a length of over 2.7 m (8.8 ft) and weight of 900 kg (2,000 lb).",
+    "correct": " Leatherback Sea Turtle",
+    "choices": {
+      "A": "Leatherback Sea Turtle",
+      "B": "Kemps Ridley Turtle",
+      "C": "Hawksbill Sea Turtle",
+      "D": "Mesoamerican River Turtle"
+    }
+  },
+  {
+    "question": "Although the jumping viper, a chiefly nocturnal snake, is one of the most powerful jumpers of the snake family, capable of rising up to 1 meter (3 feet) during a strike, its poison is not lethal to humans.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Zoophobia is the fear of animals."
+    }
+  },
+  {
+    "question": "How many types of bats are there?",
+    "correct": " 900",
+    "choices": {
+      "A": "900",
+      "B": "700",
+      "C": "500",
+      "D": "200"
+    }
+  },
+  {
+    "question": "This animal can clean its own ears with its 21-inch tongue.",
+    "correct": " Giraffe",
+    "choices": {
+      "A": "Lizard",
+      "B": "Elephant",
+      "C": "Lion",
+      "D": "Giraffe"
+    }
+  },
+  {
+    "question": "What is the fastest animal on 6 legs?",
+    "correct": " Cockroach",
+    "choices": {
+      "A": "Ladybug",
+      "B": "Cockroach",
+      "C": "Beetle",
+      "D": "Ant"
+    }
+  },
+  {
+    "question": "What is a female sheep called or known as?",
+    "correct": " ewe",
+    "choices": {
+      "A": "ewe",
+      "B": "colt",
+      "C": "fleece",
+      "D": "ram"
+    }
+  },
+  {
+    "question": "Which of the following is not a type of chipmunk?",
+    "correct": " Bushy-tailed",
+    "choices": {
+      "A": "Bushy-tailed",
+      "B": "Long-eared",
+      "C": "Eastern",
+      "D": "Sonoma"
+    }
+  },
+  {
+    "question": "All but one of the following are true types of bears. Which is the odd one?",
+    "correct": " Moon bear",
+    "choices": {
+      "A": "Moon bear",
+      "B": "Brown bear",
+      "C": "Black bear",
+      "D": "Sun bear"
+    }
+  },
+  {
+    "question": "What is the breed of animal created from the crossing of a female lion and a male tiger?",
+    "correct": " Tigon",
+    "choices": {
+      "A": "Tigen",
+      "B": "Liger",
+      "C": "Tigon",
+      "D": "Liges"
+    }
+  },
+  {
+    "question": "All pigs are classified as un-Kosher meaning they can not be eaten by Jewish people.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " What is alektorophobia?"
+    }
+  },
+  {
+    "question": "How do scientists calculate the age of a fish?",
+    "correct": " They count the growth rings on the ear bone.",
+    "choices": {
+      "A": "They count all the teeth in the fishs mouth.",
+      "B": "They measure the size of the fish and compare that to the average size of that type of  fish.",
+      "C": "They count the growth rings on the ear bone.",
+      "D": "They count the teeth in the fishs lower lip."
+    }
+  },
+  {
+    "question": "Sharks can only be found in salt water.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " The smallest species of shark in the world is the Dwarf Lanternfish."
+    }
+  },
+  {
+    "question": "More shark attacks occur during the day than at night.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " If attacked by a shark it is recommended that you punch the shark in the nose."
+    }
+  },
+  {
+    "question": "The Chihuahua is the smallest dog breed in the world.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Chihuahuas are prone to hypoglycemia (low blood sugar)."
+    }
+  },
+  {
+    "question": "This crab is not really a crab, but an arthropod. Its closest relative is the spider.",
+    "correct": " Horseshoe crab",
+    "choices": {
+      "A": "Fiddler Crab",
+      "B": "Horseshoe crab",
+      "C": "Spider Crab",
+      "D": "Rock Crab"
+    }
+  },
+  {
+    "question": "Also called Sea Biscuit, this animal lives in deeper water half-buried in the sand.",
+    "correct": " Sand Dollar",
+    "choices": {
+      "A": "Sand Dollar",
+      "B": "Star Fish",
+      "C": "Scallop",
+      "D": "Mussel"
+    }
+  },
+  {
+    "question": "This Australian monotreme lays eggs and has a remarkable sense of electroception.",
+    "correct": " Platypus",
+    "choices": {
+      "A": "Platypus",
+      "B": "Red kangaroo",
+      "C": "Dingo",
+      "D": "Emu"
+    }
+  },
+  {
+    "question": "The venomous lizard Gila monster was named after what?",
+    "correct": " The Gila River basin",
+    "choices": {
+      "A": "The Gila River basin",
+      "B": "The Gila Expedition 1857",
+      "C": "Alberto Gilardino",
+      "D": "Gilligans Island"
+    }
+  },
+  {
+    "question": "The lizards which do not have legs are commonly known by what name?",
+    "correct": " Glass lizards",
+    "choices": {
+      "A": "Glass lizards",
+      "B": "Monitor lizards",
+      "C": "Skinks",
+      "D": "Iguanas"
+    }
+  },
+  {
+    "question": "The zebra shark is very small and gentle and can be kept close to other fish.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " What is the common name for baby sharks?"
+    }
+  },
+  {
+    "question": "Two thirds of a sharks brain is dedicated to its sense of smell.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " How many recognized giraffe subspecies exist?"
+    }
+  },
+  {
+    "question": "Which of these is not a subspecies of giraffe?",
+    "correct": " East African Giraffe",
+    "choices": {
+      "A": "Somali Giraffe",
+      "B": "Rothschilds Giraffe",
+      "C": "Kordofan Giraffe",
+      "D": "East African Giraffe"
+    }
+  },
+  {
+    "question": "A goldfish can reach a weight of almost 10 lbs (4.5 kg)",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " How long can a goldfish live in optimal conditions?"
+    }
+  },
+  {
+    "question": "The world record for the oldest goldfish is 49 years.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " In Europe goldfish were first introduced to what country?"
+    }
+  },
+  {
+    "question": "What color goldfish were most prized by the Chinese royalty several centuries ago?",
+    "correct": " Yellow",
+    "choices": {
+      "A": "Silver",
+      "B": "Yellow",
+      "C": "Orange",
+      "D": "Red"
+    }
+  },
+  {
+    "question": "Is it true that goldfish only have a 3-second memory?",
+    "correct": " No",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " What color are wild goldfish?"
+    }
+  },
+  {
+    "question": "Goldfish are good parents. They nurse and protect their young until they grow up enough to defend themselves.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " This bird is the fastest animal on the planet in its hunting method, the stoop."
+    }
+  },
+  {
+    "question": "The Barn Owl likes to sleep all day long.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Red-tailed Hawks are hunted in the USA because of their frequent attacks on domestic animals."
+    }
+  },
+  {
+    "question": "Which of these animals cannot be found in North America?",
+    "correct": " Dingo",
+    "choices": {
+      "A": "Flamingo",
+      "B": "Walrus",
+      "C": "Dingo",
+      "D": "Beaver"
+    }
+  },
+  {
+    "question": "This creature belongs to the rodent family and is covered in sharp spines or quills.",
+    "correct": " Porcupine",
+    "choices": {
+      "A": "Nutria",
+      "B": "Armadillo",
+      "C": "Kiwi",
+      "D": "Porcupine"
+    }
+  },
+  {
+    "question": "Which of these are eaten by the Red Fox?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Insects",
+      "B": "worms",
+      "C": "All of these",
+      "D": "eggs"
+    }
+  },
+  {
+    "question": "Approximately how long is a Red Foxs gestation period?",
+    "correct": " 55 days",
+    "choices": {
+      "A": "89 days",
+      "B": "55 days",
+      "C": "40 days",
+      "D": "34 days"
+    }
+  },
+  {
+    "question": "What is an adult male rooster known as?",
+    "correct": " Rooster",
+    "choices": {
+      "A": "Rooster",
+      "B": "Buck",
+      "C": "Hen",
+      "D": "Foul"
+    }
+  },
+  {
+    "question": "What is the average lifespan of a lion in the wild?",
+    "correct": " 10-14 years",
+    "choices": {
+      "A": "6-9 years",
+      "B": "20-24 years",
+      "C": "10-14 years",
+      "D": "15-20 years"
+    }
+  },
+  {
+    "question": "Most lions only survive in Africa. But a population of the much endangered Asiatic lion lives in India. How many estimated lions live in India as of 2007?",
+    "correct": " 300",
+    "choices": {
+      "A": "300",
+      "B": "550",
+      "C": "1,500",
+      "D": "3,000"
+    }
+  },
+  {
+    "question": "How many species of penguins live in warm or even tropical environments?",
+    "correct": " 4",
+    "choices": {
+      "A": "0",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    }
+  },
+  {
+    "question": "Which of these is the largest species of penguins?",
+    "correct": " Emperor Penguin",
+    "choices": {
+      "A": "King Penguin",
+      "B": "Giant Penguin",
+      "C": "Emperor Penguin",
+      "D": "Royal Penguin"
+    }
+  },
+  {
+    "question": "What does the word penguin mean?",
+    "correct": " Fat",
+    "choices": {
+      "A": "Fat",
+      "B": "Black and White",
+      "C": "Swimmer",
+      "D": "Bird"
+    }
+  },
+  {
+    "question": "Which of these animals is NOT a natural predator of penguins?",
+    "correct": " Polar Bear",
+    "choices": {
+      "A": "Leopard Seal",
+      "B": "Polar Bear",
+      "C": "Stellars Sea Eagle",
+      "D": "Orca (Killer Whale)"
+    }
+  },
+  {
+    "question": "Where can the polar bear be found?",
+    "correct": " Arctic",
+    "choices": {
+      "A": "South Pole",
+      "B": "Antartica",
+      "C": "Arctic",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What color is a polar bears skin?",
+    "correct": " Black",
+    "choices": {
+      "A": "Black",
+      "B": "White",
+      "C": "Pink",
+      "D": "Yellow"
+    }
+  },
+  {
+    "question": "Approximately how many wild polar bears are estimated to live across the Arctic?",
+    "correct": " 20,000",
+    "choices": {
+      "A": "20,000",
+      "B": "100,000",
+      "C": "150,000",
+      "D": "60,000"
+    }
+  },
+  {
+    "question": "According to Guinness Book of World Records, the heaviest wild bear was caught in 1960 and weighed 1,960 lbs (890 kg). What was its length?",
+    "correct": " Over 11 feet (3,40 m) tall",
+    "choices": {
+      "A": "Over 11 feet (3,40 m) tall",
+      "B": "Over 12 feet (3,70 m) tall",
+      "C": "Over 9 feet (2,70 m) tall",
+      "D": "Over 10 feet (3 m) tall"
+    }
+  },
+  {
+    "question": "A polar bear is used as the marketing icon for which of these popular products?",
+    "correct": " Klondike Bars",
+    "choices": {
+      "A": "Maytag Freezers",
+      "B": "Hoods Ice Cream",
+      "C": "Popsicles",
+      "D": "Klondike Bars"
+    }
+  },
+  {
+    "question": "All dinosaurs were cold-blooded reptiles.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The smallest dinosaur known to science was the size of a chicken."
+    }
+  },
+  {
+    "question": "Mammals lived alongside dinosaurs.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " All dinosaurs died out due to a meteor hitting the Earth."
+    }
+  },
+  {
+    "question": "Finish this old phrase:",
+    "correct": null,
+    "choices": {
+      "A": "en you call a dog, he comes right over to you. When you call a cat, she________________.",
+      "B": "takes a message",
+      "C": "climbs the curtains",
+      "D": "runs away from you"
+    }
+  },
+  {
+    "question": "A cats memory is about half as retentive as a dogs.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Why do cats always want in when they are out, and out when thery are in?"
+    }
+  },
+  {
+    "question": "Why do cats like to sleep in the sun?",
+    "correct": " To make up for the drop in body temperature when they sleep",
+    "choices": {
+      "A": "To make up for the drop in body temperature when they sleep",
+      "B": "To keep from shedding so much",
+      "C": "It reminds them of being kittens",
+      "D": "Because they can hear better when they are warm"
+    }
+  },
+  {
+    "question": "Which of these things is something you should never feed your dog?",
+    "correct": " Chocolate",
+    "choices": {
+      "A": "Coconuts",
+      "B": "Chocolate",
+      "C": "Milk",
+      "D": "Raw meat"
+    }
+  },
+  {
+    "question": "Which of these is only a dog food brand?",
+    "correct": " Cesar",
+    "choices": {
+      "A": "Eukanuba",
+      "B": "Cesar",
+      "C": "Iams",
+      "D": "Purina"
+    }
+  },
+  {
+    "question": "A dog should never be left with a child under this age because the child may injure the dog or him/herself.",
+    "correct": " five",
+    "choices": {
+      "A": "ten",
+      "B": "seven",
+      "C": "three",
+      "D": "five"
+    }
+  },
+  {
+    "question": "What were the dodos closest living relatives in nature?",
+    "correct": " Pigeons",
+    "choices": {
+      "A": "Chickens",
+      "B": "Pigeons",
+      "C": "Parrots",
+      "D": "Turkeys"
+    }
+  },
+  {
+    "question": "In what year was the dodo discovered?",
+    "correct": " 1598",
+    "choices": {
+      "A": "1627",
+      "B": "1605",
+      "C": "1681",
+      "D": "1598"
+    }
+  },
+  {
+    "question": "In what year did the dodo become extinct?",
+    "correct": " 1681",
+    "choices": {
+      "A": "1705",
+      "B": "1789",
+      "C": "1681",
+      "D": "1803"
+    }
+  },
+  {
+    "question": "Are there any complete dodo skeletons anywhere in the world?",
+    "correct": " Yes",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " The does “cheetah” mean translated from Sanskrit?"
+    }
+  },
+  {
+    "question": "The highest recorded speed a cheetah has obtained is 80 mph (130 km/h.)",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " What are cheetahs that have mutated patterning that creates blotches instead of spots called?"
+    }
+  },
+  {
+    "question": "Cheetahs are only found in Africa.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Which of these is not a sound made by cheetahs?"
+    }
+  },
+  {
+    "question": "Unlike most cats, cheetahs prefer to hunt during the day.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The ruler of the Mughal Empire Akbar the Great was very enamored with cheetahs and it is said he kept a stable of how many of these cats?"
+    }
+  },
+  {
+    "question": "The gestation period of a cheetah is about 90-95 days.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " What is the typical lifespan of the cheetah?"
+    }
+  },
+  {
+    "question": "In 2007 the amount of cheetahs left in the wild dropped to what number?",
+    "correct": " 12,000",
+    "choices": {
+      "A": "12,000",
+      "B": "20,000",
+      "C": "30,000",
+      "D": "5,000"
+    }
+  },
+  {
+    "question": "What frog is the most poisonous?",
+    "correct": " Dart Frog",
+    "choices": {
+      "A": "Cane Toad",
+      "B": "Dart Frog",
+      "C": "Corroboree Frog",
+      "D": "Red-Eyed tree frog"
+    }
+  },
+  {
+    "question": "Which of these types of frogs shares its name with an animal that is not a frog?",
+    "correct": " horned frog",
+    "choices": {
+      "A": "horned frog",
+      "B": "leopard frog",
+      "C": "tree frog",
+      "D": "arrow frog"
+    }
+  },
+  {
+    "question": "The African Bullfrog is the largest frog.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Are Red-eyed Tree Frogs carnivores?"
+    }
+  },
+  {
+    "question": "This type of ant causes a lot of allergic reactions in the USA.",
+    "correct": " Fire ant",
+    "choices": {
+      "A": "Jack Jumper  ant",
+      "B": "Bulldog ant",
+      "C": "Western brown ant",
+      "D": "Fire ant"
+    }
+  },
+  {
+    "question": "What do we call the type of ants that plant seeds to grow food?",
+    "correct": " Harvester ants",
+    "choices": {
+      "A": "Formicadae",
+      "B": "Thresher ants",
+      "C": "Farmer ants",
+      "D": "Harvester ants"
+    }
+  },
+  {
+    "question": "What is special about the red ants of the Southwestern USA and Central and South America?",
+    "correct": " They steal larvae for slaves.",
+    "choices": {
+      "A": "They can live in temperatures from 11 degrees Centigrade to 51 degrees Centigrade.",
+      "B": "They can live for six days without food or water.",
+      "C": "They can change color.",
+      "D": "They steal larvae for slaves."
+    }
+  },
+  {
+    "question": "Are baby flamingos pink?",
+    "correct": " No",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " What decade did the pop culture icon the plastic lawn flamingo come into existence?"
+    }
+  },
+  {
+    "question": "Once the dingo was introduced to Australia, the Thylacine population decreased steadily until the only viable populations were on the Island of Tasmania.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Are Thylacines marsupials?"
+    }
+  },
+  {
+    "question": "Why were Thylacines called Tigers?",
+    "correct": " because of the stripes on their back",
+    "choices": {
+      "A": "because of the vicious way in which they killed their prey",
+      "B": "because they looked like cats",
+      "C": "because of their mean disposition",
+      "D": "because of the stripes on their back"
+    }
+  },
+  {
+    "question": "It was proven that Thylacines killed some sheep in 1957.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " What was the fine for shooting a Thylacine?"
+    }
+  },
+  {
+    "question": "In what year were Thylacines classified as extinct?",
+    "correct": " 1986",
+    "choices": {
+      "A": "1986",
+      "B": "1979",
+      "C": "1974",
+      "D": "1965"
+    }
+  },
+  {
+    "question": "Which of these statements concerning the way in which pangolins defend themselves is false?",
+    "correct": " They run away very quickly.",
+    "choices": {
+      "A": "They run away very quickly.",
+      "B": "They spray a noxious odor like a skunk.",
+      "C": "They curl up in a ball.",
+      "D": "They attack by slashing their long claws or whipping their tails."
+    }
+  },
+  {
+    "question": "How many young pangolins can an adult pangolin have at one time?",
+    "correct": " 1-2",
+    "choices": {
+      "A": "1-2",
+      "B": "3-4",
+      "C": "4-5",
+      "D": "2-3"
+    }
+  },
+  {
+    "question": "Crocodiles like to stay motionless in water and wait for the perfect time to strike. These powerful prehistoric creatures annually give what estimated number of fatalities?",
+    "correct": " 600-800",
+    "choices": {
+      "A": "1000-1500",
+      "B": "50-100",
+      "C": "100-200",
+      "D": "600-800"
+    }
+  },
+  {
+    "question": "Which of these is NOT a species of rhinoceros?",
+    "correct": " African Rhino",
+    "choices": {
+      "A": "African Rhino",
+      "B": "Indian Rhino",
+      "C": "Javan Rhino",
+      "D": "Sumatran Rhino"
+    }
+  },
+  {
+    "question": "Throughout the period from the 1970s to the end of the 20th century, the rhinoceros numbers declined by approximately what percentage?",
+    "correct": " 90%",
+    "choices": {
+      "A": "50%",
+      "B": "90%",
+      "C": "60%",
+      "D": "75%"
+    }
+  },
+  {
+    "question": "What is the life span of a rhino?",
+    "correct": " 40 years",
+    "choices": {
+      "A": "15 years",
+      "B": "40 years",
+      "C": "20 years",
+      "D": "30 years"
+    }
+  },
+  {
+    "question": "What is the gestation period of a rhino?",
+    "correct": " 16 months",
+    "choices": {
+      "A": "12 months",
+      "B": "16 months",
+      "C": "20 months",
+      "D": "24 months"
+    }
+  },
+  {
+    "question": "The species Tyrannosaurus Rex  was herbivorous.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Which of these dinosaurs had dorsal plates and spikes?"
+    }
+  },
+  {
+    "question": "According to history/science/geology, dinosaurs became extinct approximately how many years ago?",
+    "correct": " 65 million",
+    "choices": {
+      "A": "10 million",
+      "B": "25 million",
+      "C": "80 million",
+      "D": "65 million"
+    }
+  },
+  {
+    "question": "The BBC series Walking with Dinosaurs, which won three Emmy Awards, consisted of how many parts?",
+    "correct": " 6",
+    "choices": {
+      "A": "12",
+      "B": "3",
+      "C": "6",
+      "D": "2"
+    }
+  },
+  {
+    "question": "Which one of these dinosaurs was bigger than a dog?",
+    "correct": " Triceratops",
+    "choices": {
+      "A": "Saltopus",
+      "B": "Parvicursor",
+      "C": "Microraptor",
+      "D": "Triceratops"
+    }
+  },
+  {
+    "question": "How many fingers did the Tyrannosaurus rex have on its forelimbs?",
+    "correct": " 2",
+    "choices": {
+      "A": "4",
+      "B": "3",
+      "C": "5",
+      "D": "2"
+    }
+  },
+  {
+    "question": "An elephants brain is half the size of the human brain.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Through what body part can an elephant NOT hear?"
+    }
+  },
+  {
+    "question": "Only female elephants were used in battle, because male elephants were too difficult to tame and train.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " In Islamic history, 570 A.D. was The Year of the Elephant. Which of these happened in that year?"
+    }
+  },
+  {
+    "question": "An elephants tusks grow continuously, about 7 inches a year.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Which is true about elephants?"
+    }
+  },
+  {
+    "question": "What is the only marsupial in the world that has a backwards pouch?",
+    "correct": " wombat",
+    "choices": {
+      "A": "kangaroo",
+      "B": "echidna",
+      "C": "koala",
+      "D": "wombat"
+    }
+  },
+  {
+    "question": "This reef, that extends along the east coast of Australia, is home to countless animals and is considered one of the wonders of the natural world.",
+    "correct": " Great Barrier Reef",
+    "choices": {
+      "A": "Great Barrier Reef",
+      "B": "Division Reef",
+      "C": "Australia Reef",
+      "D": "Surfer Reef"
+    }
+  },
+  {
+    "question": "Triceratops was a voracious meat eater and would consume hundreds of pounds of meat a day.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " How much is Triceratops thought to have weighed?"
+    }
+  },
+  {
+    "question": "Is there any evidence that Triceratops lived in herds?",
+    "correct": " No",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " In what year was Triceratops first discovered?"
+    }
+  },
+  {
+    "question": "Triceratops is the official State Dinosaur of which state?",
+    "correct": " Wyoming",
+    "choices": {
+      "A": "Utah",
+      "B": "Oregon",
+      "C": "Wyoming",
+      "D": "Nevada"
+    }
+  },
+  {
+    "question": "It is thought that Triceratops was able to run how fast?",
+    "correct": " 15 mph",
+    "choices": {
+      "A": "40 mph",
+      "B": "15 mph",
+      "C": "20 mph",
+      "D": "30 mph"
+    }
+  },
+  {
+    "question": "What does the word “mantis” mean?",
+    "correct": " Prophet or fortuneteller",
+    "choices": {
+      "A": "Savage insect",
+      "B": "Killer or hunter",
+      "C": "Prophet or fortuneteller",
+      "D": "Leaflike"
+    }
+  },
+  {
+    "question": "Can a praying mantis change color?",
+    "correct": " Yes",
+    "choices": {
+      "A": "No",
+      "B": "Yes",
+      "C": null,
+      "D": " A large mantis can feed on birds or small mammals."
+    }
+  },
+  {
+    "question": "How many cubs are usually in a tigers litter?",
+    "correct": " 3-4 cubs",
+    "choices": {
+      "A": "1-6 cubs",
+      "B": "3-4 cubs",
+      "C": "1-2 cubs",
+      "D": "2-4 cubs"
+    }
+  },
+  {
+    "question": "Turtles can breathe in water.",
+    "correct": " False",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " How many living species of bears are there?"
+    }
+  },
+  {
+    "question": "The Coyote is also known as The Prairie Wolf.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Which country does the Clydesdale horse originate from?"
+    }
+  },
+  {
+    "question": "What famous beer brand uses the Clydesdale horse as its mascot?",
+    "correct": " Anheuser-Busch",
+    "choices": {
+      "A": "Anheuser-Busch",
+      "B": "Fosters",
+      "C": "Upland",
+      "D": "Heineken"
+    }
+  },
+  {
+    "question": "Clydesdale horses are known for having white fur covering their hooves on all four of their legs.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " What year was the Clydesdale Horse Society formally founded?"
+    }
+  },
+  {
+    "question": "What class of horse breed does the Clydesdale horse belong to?",
+    "correct": " Draft Horse",
+    "choices": {
+      "A": "Draft Horse",
+      "B": "Carriage Horse",
+      "C": "Farm Horse",
+      "D": "Saddle Horse"
+    }
+  },
+  {
+    "question": "What year was the Clydesdale horse introduced to North America?",
+    "correct": " 1715",
+    "choices": {
+      "A": "1636",
+      "B": "1715",
+      "C": "1525",
+      "D": "1800"
+    }
+  },
+  {
+    "question": "How long does a Clydesdale horse’s pregnancy last?",
+    "correct": " 11 Months",
+    "choices": {
+      "A": "9 months",
+      "B": "24 Months",
+      "C": "15 Months",
+      "D": "11 Months"
+    }
+  },
+  {
+    "question": "This extremely large and tall German dog breed has a very short shiny coat and strong muscular body with a majestic posture.",
+    "correct": " All of these",
+    "choices": {
+      "A": "German Mastiff",
+      "B": "Boarhound",
+      "C": "Great Dane",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What is the definition of the term hypercarnivore?",
+    "correct": " An animal whose diet consists exclusively of meat.",
+    "choices": {
+      "A": "It is a synonym for apex carnivore.",
+      "B": "A predator that feeds on carnivorous animals.",
+      "C": "It is a term that refers to humans.",
+      "D": "An animal whose diet consists exclusively of meat."
+    }
+  },
+  {
+    "question": "What does the term facultative carnivore mean?",
+    "correct": " A carnivore that also consumes plant food.",
+    "choices": {
+      "A": "It is a synonym for scavenger.",
+      "B": "Animal that has all characteristics of carnivores but is a herbivore.",
+      "C": "A carnivore that also consumes plant food.",
+      "D": "It is a synonym for omnivore."
+    }
+  },
+  {
+    "question": "The average lifespan of a box turtle is about 20 years.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Box turtles are carnivores."
+    }
+  },
+  {
+    "question": "How many box turtle species are there in North America?",
+    "correct": " 4",
+    "choices": {
+      "A": "4",
+      "B": "1",
+      "C": "9",
+      "D": "2"
+    }
+  },
+  {
+    "question": "What color eyes do male box turtles commonly have?",
+    "correct": " red",
+    "choices": {
+      "A": "blue",
+      "B": "green",
+      "C": "red",
+      "D": "black"
+    }
+  },
+  {
+    "question": "The White Snake is a fairy tale included in the collection of fairy tales by this author.",
+    "correct": " Brothers Grimm",
+    "choices": {
+      "A": "Andrew Lang",
+      "B": "Brothers Grimm",
+      "C": "Oscar Wilde",
+      "D": "Hans Christian Andersen"
+    }
+  },
+  {
+    "question": "In what country did the American Akita dog breed originate?",
+    "correct": " Japan",
+    "choices": {
+      "A": "Canada",
+      "B": "Japan",
+      "C": "China",
+      "D": "United States"
+    }
+  },
+  {
+    "question": "Is the cheetah the only animal on land that can turn while running?",
+    "correct": " Yes",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " Cheetahs have been domesticated and tamed."
+    }
+  },
+  {
+    "question": "Nutrias belong to the rodent family.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The nutria is native to which continent?"
+    }
+  },
+  {
+    "question": "What is the average weight of an adult nutria?",
+    "correct": " 10-20 lbs.",
+    "choices": {
+      "A": "15-25 lbs.",
+      "B": "5-10 lbs.",
+      "C": "Over 30 lbs.",
+      "D": "10-20 lbs."
+    }
+  },
+  {
+    "question": "Venomous and poisonous are two different terms. What does the term venomous refer to?",
+    "correct": " Animals that inject venom",
+    "choices": {
+      "A": "Animals that inject venom",
+      "B": "Animals that are deadly when eaten",
+      "C": "Plants and animals that secrete venom and are harmful when touched",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "Venomous mammals do exist, although they are very rare. Which of these mammals is venomous?",
+    "correct": " All of these",
+    "choices": {
+      "A": "European Mole",
+      "B": "Cuban Solenodon",
+      "C": "All of these",
+      "D": "Platypus"
+    }
+  },
+  {
+    "question": "Do adult jellyfish reproduce asexually?",
+    "correct": " No",
+    "choices": {
+      "A": "No",
+      "B": "Yes",
+      "C": null,
+      "D": " Is the wolfs scientific name Canis lupus pallipes?"
+    }
+  },
+  {
+    "question": "How long is the female gestation period in wolves?",
+    "correct": " 63 days",
+    "choices": {
+      "A": "90 days",
+      "B": "25 days",
+      "C": "63 days",
+      "D": "200 days"
+    }
+  },
+  {
+    "question": "What is the largest living terrestrial organism on the planet?",
+    "correct": " African Bush Elephant",
+    "choices": {
+      "A": "African Forest Elephant",
+      "B": "Asian Elephant",
+      "C": "African Bush Elephant",
+      "D": "Indian Elephant"
+    }
+  },
+  {
+    "question": "What animal is considered the major enemy of the wolf in the wild, apart from humans?",
+    "correct": " Other wolves",
+    "choices": {
+      "A": "Bear",
+      "B": "Other wolves",
+      "C": "Eagle",
+      "D": "None of these"
+    }
+  },
+  {
+    "question": "What animal is the largest macropod and one of Australias heraldic animals?",
+    "correct": " Red kangaroo",
+    "choices": {
+      "A": "Pademelon",
+      "B": "Red kangaroo",
+      "C": "Grey kangaroo",
+      "D": "Quokka"
+    }
+  },
+  {
+    "question": "How did the Black Mamba snake get its name?",
+    "correct": " Because its mouth is black",
+    "choices": {
+      "A": "Because of its color",
+      "B": "Because its eggs are black",
+      "C": "Because its mouth is black",
+      "D": "Because its venom is black"
+    }
+  },
+  {
+    "question": "Which of these statements is true about the Black Iberian Pig?",
+    "correct": " It is indigenous to the Mediterranean.",
+    "choices": {
+      "A": "It is indigenous to the Mediterranean.",
+      "B": "It is a rodent.",
+      "C": "All of these",
+      "D": "It is not actually black."
+    }
+  },
+  {
+    "question": "The Humpback Whale, one of the largest marine mammals, feeds in this season.",
+    "correct": " Summer",
+    "choices": {
+      "A": "Spring and winter",
+      "B": "Winter",
+      "C": "Summer",
+      "D": "Fall"
+    }
+  },
+  {
+    "question": "The natural habitat of the Chinchilla is this region in South America.",
+    "correct": " The Andes",
+    "choices": {
+      "A": "Tierra del Fuego",
+      "B": "The Atacama Desert",
+      "C": "The Amazon River basin",
+      "D": "The Andes"
+    }
+  },
+  {
+    "question": "Which of these names refers to the Crab-eating Fox, a medium-sized fox found in the central part of South America?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Forest Fox",
+      "B": "Wood Fox",
+      "C": "Common Fox",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What eminent musician released his album The Fox in 1981?",
+    "correct": " Elton John",
+    "choices": {
+      "A": "Tom Johnes",
+      "B": "Elton John",
+      "C": "Barry White",
+      "D": "Julio Iglesias"
+    }
+  },
+  {
+    "question": "The acouchis, small diurnal rodents found along riverbanks in the Amazon Rainforest, usually feed on this type of food.",
+    "correct": " Fruit",
+    "choices": {
+      "A": "Insects",
+      "B": "Grass",
+      "C": "Fruit",
+      "D": "Nuts"
+    }
+  },
+  {
+    "question": "How did Hummingbirds get their interesting name?",
+    "correct": " Because of the noise they produce when they fly",
+    "choices": {
+      "A": "None of these",
+      "B": "They are named after their discoverer, Michael Hummings.",
+      "C": "Because of their singing",
+      "D": "Because of the noise they produce when they fly"
+    }
+  },
+  {
+    "question": "The usage of raw sugars, including brown sugar, is not recommended when preparing artificial nectar for Hummingbirds. Why?",
+    "correct": " Raw sugars contain iron.",
+    "choices": {
+      "A": "All of these",
+      "B": "Raw sugars contain iron.",
+      "C": "Raw sugars contain zinc.",
+      "D": "They contain harmful heavy metals."
+    }
+  },
+  {
+    "question": "What color is the head of the South American stork Jabiru, whose body is predominantly white?",
+    "correct": " Black",
+    "choices": {
+      "A": "Purple",
+      "B": "Green",
+      "C": "Black",
+      "D": "Red"
+    }
+  },
+  {
+    "question": "What type of mammal is the Culpeo?",
+    "correct": " Wild dog",
+    "choices": {
+      "A": "Beaver",
+      "B": "Wild cat",
+      "C": "Wild dog",
+      "D": "Fox"
+    }
+  },
+  {
+    "question": "The tiger shark is considered highly dangerous to humans.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " The tiger shark reaches a length of 10 ft to 20 ft."
+    }
+  },
+  {
+    "question": "Most bear species are omnivores and their diet consists mainly of what?",
+    "correct": " Mast",
+    "choices": {
+      "A": "Tubers",
+      "B": "Leaves",
+      "C": "Grass",
+      "D": "Mast"
+    }
+  },
+  {
+    "question": "Skunks, which are omnivorous mammals, are one of the primary predators of these animals.",
+    "correct": " Honeybees",
+    "choices": {
+      "A": "Moles",
+      "B": "Termites",
+      "C": "Honeybees",
+      "D": "Salamanders"
+    }
+  },
+  {
+    "question": "What does the Tasmanian devil do when it feels stressed or threatened?",
+    "correct": " It produces a strong odour",
+    "choices": {
+      "A": "It starts screaming",
+      "B": "It plays dead",
+      "C": "It produces a strong odour",
+      "D": "It attacks"
+    }
+  },
+  {
+    "question": "Which of these behaviors is typical of ant societies?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Ability to solve complicated problems",
+      "B": "Communication between individuals",
+      "C": "Division of labor",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "Which of these is true about ants diet?",
+    "correct": " Most ants are omnivores.",
+    "choices": {
+      "A": "All ants are herbivores.",
+      "B": "All ants are carnivores.",
+      "C": "Most ant species are carnivores.",
+      "D": "Most ants are omnivores."
+    }
+  },
+  {
+    "question": "Which of these mollusks is able to glide over in air for up to 50 meters (164 feet)?",
+    "correct": " Squid",
+    "choices": {
+      "A": "Oyster",
+      "B": "Squid",
+      "C": "Octopus",
+      "D": "Slug"
+    }
+  },
+  {
+    "question": "What kind of organism is the Greater Glider, a gliding animal indigenous to Australia?",
+    "correct": " Mammal",
+    "choices": {
+      "A": "Reptile",
+      "B": "Fish",
+      "C": "Amphibian",
+      "D": "Mammal"
+    }
+  },
+  {
+    "question": "What body part of the giraffe can indicate its gender?",
+    "correct": " Horns",
+    "choices": {
+      "A": "Tongue",
+      "B": "Teeth",
+      "C": "Horns",
+      "D": "Eyes"
+    }
+  },
+  {
+    "question": "Which whale expels a reddish-brown fluid when threatened, much like an octopus?",
+    "correct": " Pygmy sperm whale",
+    "choices": {
+      "A": "Dwarf sperm whale",
+      "B": "Pygmy sperm whale",
+      "C": "Andrew’s beaked whale",
+      "D": "Fin whale"
+    }
+  },
+  {
+    "question": "Sometimes called the “hooked-finned” porpoise, this animal has a barely noticeable beak. It lives in the deep waters of the northern latitudes between North America and Asia, and is a very fast swimmer (up to 20 mph / 32 km/h). What is its name?",
+    "correct": " Pacific white-sided dolphin",
+    "choices": {
+      "A": "Dusky dolphin",
+      "B": "Dall’s porpoise",
+      "C": "Pacific white-sided dolphin",
+      "D": "Pantropical dolphin"
+    }
+  },
+  {
+    "question": "What animal is considered the smallest mammal in length on the planet?",
+    "correct": " Kittis Hog-nosed Bat",
+    "choices": {
+      "A": "None of these",
+      "B": "Pygmy Jerboa",
+      "C": "Kittis Hog-nosed Bat",
+      "D": "Etruscan Shrew"
+    }
+  },
+  {
+    "question": "What type of animal is the smallest vertebrate?",
+    "correct": " Fish",
+    "choices": {
+      "A": "Mammals",
+      "B": "Reptiles",
+      "C": "Amphibians",
+      "D": "Fish"
+    }
+  },
+  {
+    "question": "There are various theories for the origin of the word penguin, such the Latin word pinguis, which means what?",
+    "correct": " Fat",
+    "choices": {
+      "A": "Diver",
+      "B": "Upright",
+      "C": "Swimmer",
+      "D": "Fat"
+    }
+  },
+  {
+    "question": "What notable feature does the Gentoo Penguin possess which makes it easily recognizable?",
+    "correct": " A white stripe on the top of its head",
+    "choices": {
+      "A": "A white stripe on the top of its head",
+      "B": "A longer blue tail",
+      "C": "A red crest on its head",
+      "D": "A yellow spot on its abdomen"
+    }
+  },
+  {
+    "question": "What interesting resting posture does the Indian Treeshrew, a.k.a. Madras Treeshrew, have?",
+    "correct": " With its tail resting on its head",
+    "choices": {
+      "A": "Sprawling on the ground as if its dead",
+      "B": "With its tail resting on its head",
+      "C": "Cuddling its rear legs",
+      "D": "Hanging upside down from a branch"
+    }
+  },
+  {
+    "question": "In the winter, many turtles enter a dormant state called torpor which resembles hibernation .",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Turtles are cold-blooded, meaning their internal temperature varies according to their outside environment."
+    }
+  },
+  {
+    "question": "A turtles eggs are leathery and soft.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " A turtles lungs quickly break down, becoming less and less efficient over its lifetime."
+    }
+  },
+  {
+    "question": "A turtles upper shell is called the plastron.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " A turtles skin is made of scales, just like the skin of other reptiles."
+    }
+  },
+  {
+    "question": "How does the platypus feed its young for the first three to four months?",
+    "correct": " The mother is lactating, but she has no teats.",
+    "choices": {
+      "A": "The mother is feeding them with insects.",
+      "B": "The mother is breastfeeding them.",
+      "C": "The young rely on their yolk sacs for food.",
+      "D": "The mother is lactating, but she has no teats."
+    }
+  },
+  {
+    "question": "What type of food do chinchillas prefer to feed on in the wild?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Plants",
+      "B": "All of these",
+      "C": "Insects",
+      "D": "Fruits"
+    }
+  },
+  {
+    "question": "What is the literal translation of the word lanigera in the name of the chinchilla species Chinchilla lanigera?",
+    "correct": " Wearing a woolen coat",
+    "choices": {
+      "A": "Long-tailed",
+      "B": "Having long ears",
+      "C": "Sleeping in straw",
+      "D": "Wearing a woolen coat"
+    }
+  },
+  {
+    "question": "This hairless cat breed originated in Russia.",
+    "correct": " All of these",
+    "choices": {
+      "A": "Don Sphynx",
+      "B": "Donskoy",
+      "C": "Don Hairless",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "The feathers of adult male ostriches are primarily of this color.",
+    "correct": " Black",
+    "choices": {
+      "A": "White",
+      "B": "Gray",
+      "C": "Brown",
+      "D": "Black"
+    }
+  },
+  {
+    "question": "Which is the largest subspecies of ostrich on the planet?",
+    "correct": " Red-necked Ostrich",
+    "choices": {
+      "A": "Southern Ostrich",
+      "B": "Masai Ostrich",
+      "C": "Red-necked Ostrich",
+      "D": "Middle Eastern Ostrich"
+    }
+  },
+  {
+    "question": "What elephant species has two fingerlike projections at the end of its trunk?",
+    "correct": " African Elephant",
+    "choices": {
+      "A": "Asian Elephant",
+      "B": "All of these",
+      "C": "African Elephant",
+      "D": "Sri Lankan Elephant"
+    }
+  },
+  {
+    "question": "What does the diet of elephants mostly consist of?",
+    "correct": " Grasses",
+    "choices": {
+      "A": "Leaves",
+      "B": "Twigs",
+      "C": "Grasses",
+      "D": "Tree bark"
+    }
+  },
+  {
+    "question": "Apart from the American cockroach, what other cockroach species is among the best-known pests?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Oriental cockroach",
+      "B": "Asian cockroach",
+      "C": "German cockroach",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "Which of these statements is true about the reproduction of cockroaches?",
+    "correct": " All of these",
+    "choices": {
+      "A": "All of these",
+      "B": "Male roaches use court rituals to attract the female.",
+      "C": "A few species can reproduce through parthenogenesis, or without the need of fertilization.",
+      "D": "Males and females attract each other through pheromones."
+    }
+  },
+  {
+    "question": "Which of the following statements is true about scorpions?",
+    "correct": " They give birth to their young one by one.",
+    "choices": {
+      "A": "They give birth to their young one by one.",
+      "B": "They lay the eggs and they hatch almost immediately.",
+      "C": "They lay eggs which hatch after 2 weeks.",
+      "D": "None of these"
+    }
+  },
+  {
+    "question": "Which of these statements is true about the King Penguin?",
+    "correct": " All of these",
+    "choices": {
+      "A": "They are serially monogamous.",
+      "B": "Both parents take part in the incubation.",
+      "C": "All of these",
+      "D": "The female lays 1 single egg."
+    }
+  },
+  {
+    "question": "The guinea pig is unable to produce this substance in its own body and gets it from its food.",
+    "correct": " Vitamin C",
+    "choices": {
+      "A": "Saliva",
+      "B": "Vitamin C",
+      "C": "Stomach acid",
+      "D": "Digestive enzymes"
+    }
+  },
+  {
+    "question": "Captive raccoons are known for performing this vacuum activity.",
+    "correct": " Dousing their food",
+    "choices": {
+      "A": "Dousing their food",
+      "B": "Scratching their belly",
+      "C": "Playing dead",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What have raccoons been mostly hunted for throughout history?",
+    "correct": " Their fur",
+    "choices": {
+      "A": "Their fur",
+      "B": "Their bones",
+      "C": "Their meat",
+      "D": "Their fat"
+    }
+  },
+  {
+    "question": "How did the glass lizard, also known as glass snake, get its interesting name?",
+    "correct": " It breaks easily.",
+    "choices": {
+      "A": "It can climb on glass.",
+      "B": "Its eyes are glass-like.",
+      "C": "It is almost transparent.",
+      "D": "It breaks easily."
+    }
+  },
+  {
+    "question": "What is the smallest extant species of crocodilian on the planet?",
+    "correct": " Musky Caiman",
+    "choices": {
+      "A": "Smooth-fronted Caiman",
+      "B": "Musky Caiman",
+      "C": "Spectacled Caiman",
+      "D": "Yacare Caiman"
+    }
+  },
+  {
+    "question": "About 50% of the weight of a well-fed sloth comprises of the food in its stomach.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " How long does it take for a sloth to digest its food completely?"
+    }
+  },
+  {
+    "question": "Which of these names does not refer to a sloth?",
+    "correct": " Rikki-Tikki-Tavi",
+    "choices": {
+      "A": "Ritto",
+      "B": "Rit",
+      "C": "Rikki-Tikki-Tavi",
+      "D": "Ridette"
+    }
+  },
+  {
+    "question": "What is the difference between the digestion of kangaroos and the digestion of ruminants?",
+    "correct": " Kangaroos do not release methane.",
+    "choices": {
+      "A": "Nothing",
+      "B": "Kangaroos need to consume some animal matter to provide essential digestive bacteria.",
+      "C": "Kangaroos do not release methane.",
+      "D": "Kangaroos digest plant matter five times faster than ruminants do."
+    }
+  },
+  {
+    "question": "What is the meaning of the word kangaroo according to legend?",
+    "correct": " I dont understand you.",
+    "choices": {
+      "A": "I dont know.",
+      "B": "Look at this!",
+      "C": "I dont understand you.",
+      "D": "What is this?"
+    }
+  },
+  {
+    "question": "What unusual anatomical feature do wombats possess?",
+    "correct": " Their pouch faces backwards.",
+    "choices": {
+      "A": "Their pouch faces backwards.",
+      "B": "They dont have a spleen.",
+      "C": "They dont have eyelids.",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "Which of these wombat species is also known as Coarse-haired Wombat?",
+    "correct": " Common Wombat",
+    "choices": {
+      "A": "Southern Hairy-nosed Wombat",
+      "B": "Northern Hairy-nosed Wombat",
+      "C": "Common Wombat",
+      "D": "None of these"
+    }
+  },
+  {
+    "question": "Which continent does the turtle-dove migrate to in the colder winter months?",
+    "correct": " Africa",
+    "choices": {
+      "A": "Africa",
+      "B": "Australia",
+      "C": "North America",
+      "D": "Asia"
+    }
+  },
+  {
+    "question": "How do most bat species spend the cold winter months?",
+    "correct": " They hibernate.",
+    "choices": {
+      "A": "They migrate south to to regions with warmer climates.",
+      "B": "They do not change their behavior in the winter.",
+      "C": "None of these",
+      "D": "They hibernate."
+    }
+  },
+  {
+    "question": "What other common name is used for the Kittis Hog-nosed Bat, the smallest bat species in the world?",
+    "correct": " Bumblebee bat",
+    "choices": {
+      "A": "Wasp bat",
+      "B": "Hummingbird bat",
+      "C": "Bumblebee bat",
+      "D": "Ladybug bat"
+    }
+  },
+  {
+    "question": "What is the color of the legs, bill and eye rims of the Green Magpie, a small Asian bird with bright green plumage?",
+    "correct": " Red",
+    "choices": {
+      "A": "Purple",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Bright pink"
+    }
+  },
+  {
+    "question": "What is the favorite food of the Fairy-bluebird, which is found only in Asia?",
+    "correct": " Figs",
+    "choices": {
+      "A": "Goji berries",
+      "B": "Grasshoppers",
+      "C": "All of these",
+      "D": "Figs"
+    }
+  },
+  {
+    "question": "Which of these statements is wrong about the Glass frogs from the amphibian family Centrolenidae?",
+    "correct": " They are found mainly in Australia and Tasmania.",
+    "choices": {
+      "A": "They are arboreal animals.",
+      "B": "They are found mainly in Australia and Tasmania.",
+      "C": "All of these",
+      "D": "Their skin is transparent."
+    }
+  },
+  {
+    "question": "What order of trilobite was the only one to survive the Devonian mass extinction?",
+    "correct": " Proetida",
+    "choices": {
+      "A": "Proetida",
+      "B": "None of these",
+      "C": "Phacopida",
+      "D": "Lichida"
+    }
+  },
+  {
+    "question": "What genus and species did the largest complete trilobite fossil ever found belong to?",
+    "correct": " Isotelus rex",
+    "choices": {
+      "A": "None of these",
+      "B": "Isotelus rex",
+      "C": "Isotelus maximus",
+      "D": "Isotelus brachycephalus"
+    }
+  },
+  {
+    "question": "In what places does the nocturnal Aye-aye sleep during the daytime?",
+    "correct": " On trees",
+    "choices": {
+      "A": "On a branch, covering its body with a big leaf",
+      "B": "Hanging from a branch.",
+      "C": "On trees",
+      "D": "In holes in the ground"
+    }
+  },
+  {
+    "question": "To what geographic area is the koala endemic?",
+    "correct": " Australia",
+    "choices": {
+      "A": "Tasmania",
+      "B": "Australia and Tasmania",
+      "C": "Australia",
+      "D": "Australia and New Guinea"
+    }
+  },
+  {
+    "question": "What unusual anatomical characteristic does the koala possess?",
+    "correct": " All of these",
+    "choices": {
+      "A": "The female has two vaginas.",
+      "B": "The female has two uteri.",
+      "C": "The make has a bifurcated penis.",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What term is used for the behavior exhibited by male giraffes that are engaged in a fight?",
+    "correct": " Necking",
+    "choices": {
+      "A": "Hoofing",
+      "B": "Tailing",
+      "C": "Necking",
+      "D": "Horning"
+    }
+  },
+  {
+    "question": "What is the largest living subspecies of giraffe on the planet?",
+    "correct": " Masai Giraffe",
+    "choices": {
+      "A": "Masai Giraffe",
+      "B": "South African Giraffe",
+      "C": "Rothschild Giraffe",
+      "D": "Nubian Giraffe"
+    }
+  },
+  {
+    "question": "This dog, who first showed up in a Bud Light Beer Super Bowl ad, had a black circle around one eye.",
+    "correct": " Spuds MacKenzie",
+    "choices": {
+      "A": "Spuds MacKenzie",
+      "B": "Blue MacKenzie",
+      "C": "Long John",
+      "D": "Spottie"
+    }
+  },
+  {
+    "question": "This member of the oceanic dolphin family, named for its versatile predatory habits, cannot be mistaken with any other sea creature, due to its distinctive coloration - black back, white chest, sides, and a patch above and behind each eye.",
+    "correct": " Killer whale",
+    "choices": {
+      "A": "Killer whale",
+      "B": "Humpback dolphin",
+      "C": "Pilot whale",
+      "D": "Spinner dolphin"
+    }
+  },
+  {
+    "question": "The scarab, a sacred beetle to Ancient Egyptians, is commonly known as what?",
+    "correct": " Dung Beetle",
+    "choices": {
+      "A": "Dung Beetle",
+      "B": "Stag Beetle",
+      "C": "June Bug",
+      "D": "Noble Chafer"
+    }
+  },
+  {
+    "question": "Which of these animals usually preys on black bear cubs?",
+    "correct": " Cougar",
+    "choices": {
+      "A": "Hedgehog",
+      "B": "Garden snake",
+      "C": "Cougar",
+      "D": "Dog"
+    }
+  },
+  {
+    "question": "How many eggs does a turkey usually lay?",
+    "correct": " 8-15",
+    "choices": {
+      "A": "8-15",
+      "B": "4-12",
+      "C": "6-13",
+      "D": "4-8"
+    }
+  },
+  {
+    "question": "Turkeys were once threatened with extinction in America.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Did all Indian tribes of North America eat turkeys or consider them to be edible?"
+    }
+  },
+  {
+    "question": "Indoor cats tend to live longer.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " What year was the very first cat show held?"
+    }
+  },
+  {
+    "question": "Which of these is not one of the most popular names for female cats in the USA?",
+    "correct": " Socks",
+    "choices": {
+      "A": "Missy",
+      "B": "Pumpkin",
+      "C": "Socks",
+      "D": "Tigger"
+    }
+  },
+  {
+    "question": "What is the gestation period for an aardvark?",
+    "correct": " 7 months",
+    "choices": {
+      "A": "1 full year",
+      "B": "9 months",
+      "C": "3 months",
+      "D": "7 months"
+    }
+  },
+  {
+    "question": "Aardvarks have more olfactory nerves than other mammals.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Which one of these statements about aardvarks is false?"
+    }
+  },
+  {
+    "question": "What color was the aardvark from the Pink Panther cartoon?",
+    "correct": " Blue",
+    "choices": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Pink",
+      "D": "Gray"
+    }
+  },
+  {
+    "question": "The expression badgering someone” came from the cruel sport of badger baiting.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Which of the following octopuses could most easily kill a human?"
+    }
+  },
+  {
+    "question": "How many hearts do most octopi have?",
+    "correct": " 3",
+    "choices": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "0"
+    }
+  },
+  {
+    "question": "Which of the following is the name for an octopuss tongue?",
+    "correct": " Radula",
+    "choices": {
+      "A": "Siphon",
+      "B": "Hemetoy",
+      "C": "Mantle",
+      "D": "Radula"
+    }
+  },
+  {
+    "question": "Is it believed that Smilodon was a social animal?",
+    "correct": " Yes",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " Which species of Smilodon was the largest?"
+    }
+  },
+  {
+    "question": "Approximately how long ago did Smilodon become extinct?",
+    "correct": " 10,000 years",
+    "choices": {
+      "A": "5,000 years",
+      "B": "20,000 years",
+      "C": "10,000 years",
+      "D": "15,000 years"
+    }
+  },
+  {
+    "question": "What king of habitat do Tomato Frogs live in?",
+    "correct": " in marshes, shallow pools, flooded meadows, and wetlands",
+    "choices": {
+      "A": "in the snowy mountain tops",
+      "B": "in marshes, shallow pools, flooded meadows, and wetlands",
+      "C": "in dessert areas that are very arid and dry",
+      "D": "in the salty ocean"
+    }
+  },
+  {
+    "question": "Female Tomato Frogs are larger than male Tomato Frogs.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " When Tomato Frogs are in captivity at a zoo, what kind of food are they fed?"
+    }
+  },
+  {
+    "question": "Tomato Frogs lay their eggs in the water during rainy seasons.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The life span of a Tomato Frog is 15-35 years."
+    }
+  },
+  {
+    "question": "Manatees are found more commonly in Caribbean, Mexico, and Florida waters. Why?",
+    "correct": " The water is warm.",
+    "choices": {
+      "A": "The water is cool.",
+      "B": "There is a better food variety.",
+      "C": "The water is warm.",
+      "D": "The water is salty."
+    }
+  },
+  {
+    "question": "What kind of respiratory organs do lungfish have?",
+    "correct": " They have both lungs and gills.",
+    "choices": {
+      "A": "They have both lungs and gills.",
+      "B": "Lungfish do not have any respiratory organs. They absorb oxygen through their skin.",
+      "C": "They breathe only with gills.",
+      "D": "They do not have gills, they use their lungs for respiration."
+    }
+  },
+  {
+    "question": "The Mimic Leatherjacket, found in the tropical marine waters throughout the Indo-Pacific, mimics which poisonous fish?",
+    "correct": " Saddled Puffer",
+    "choices": {
+      "A": "Red Bass",
+      "B": "Hogfish",
+      "C": "Saddled Puffer",
+      "D": "Stonefish"
+    }
+  },
+  {
+    "question": "The zebrafish (Girella zebra), which can be recognised by its pale body and yellow fins, is endemic to which region?",
+    "correct": " Australian waters",
+    "choices": {
+      "A": "Amazon River Basin",
+      "B": "Australian waters",
+      "C": "The Caribbean",
+      "D": "Japan waters"
+    }
+  },
+  {
+    "question": "Pandas do not hibernate.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Pandas live and travel together."
+    }
+  },
+  {
+    "question": "Which of these is TRUE about pandas?",
+    "correct": " They are carnivores.",
+    "choices": {
+      "A": "They belong to the raccoon family.",
+      "B": "They are poor climbers.",
+      "C": "They were unknown to the Western world until the 1600s.",
+      "D": "They are carnivores."
+    }
+  },
+  {
+    "question": "How many stomachs does a starfish have?",
+    "correct": " 2",
+    "choices": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "5"
+    }
+  },
+  {
+    "question": "All starfish have 5 arms.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " In which country is the Gohongaze Starfish considered an edible delicacy?"
+    }
+  },
+  {
+    "question": "Starfish are capable of both asexual and sexual reproduction.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Starfish are fast moving creatures."
+    }
+  },
+  {
+    "question": "Scorpions are active at night in order to avoid which of their predators?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Mice",
+      "B": "Lizards",
+      "C": "All of these",
+      "D": "Centipedes"
+    }
+  },
+  {
+    "question": "Catfish are bony fish that are active in the nighttime. How did they get their interesting name?",
+    "correct": " They have barbels that remind of cat whiskers.",
+    "choices": {
+      "A": "They have barbels that remind of cat whiskers.",
+      "B": "They like to rub against objects like cats do.",
+      "C": "They have cat eyes.",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "How many different species of dolphins are there in the world?",
+    "correct": " 32",
+    "choices": {
+      "A": "15",
+      "B": "48",
+      "C": "32",
+      "D": "12"
+    }
+  },
+  {
+    "question": "How do dolphins generally sleep if they are in the wild?",
+    "correct": " with only one brain hemisphere in slow-wave sleep",
+    "choices": {
+      "A": "None of these",
+      "B": "like land mammals",
+      "C": "They dont sleep at all.",
+      "D": "with only one brain hemisphere in slow-wave sleep"
+    }
+  },
+  {
+    "question": "Which of these foods does the Canada goose include in its diet?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Green vegetation",
+      "B": "All of these",
+      "C": "Grains",
+      "D": "Seaweeds"
+    }
+  },
+  {
+    "question": "Which continents does the natural habitat of the jaguar span upon?",
+    "correct": " North and South America",
+    "choices": {
+      "A": "Europe and Africa",
+      "B": "South America and Africa",
+      "C": "Africa and Asia",
+      "D": "North and South America"
+    }
+  },
+  {
+    "question": "Which of the following statements is not true about the reproduction of jaguars?",
+    "correct": " Both males and females provide parenting of the cubs.",
+    "choices": {
+      "A": "Jaguars gestation period is 93 - 105 days.",
+      "B": "Female jaguars reach maturity earlier than males.",
+      "C": "Both males and females provide parenting of the cubs.",
+      "D": "Jaguars mate throughout the whole year."
+    }
+  },
+  {
+    "question": "What continent does the large Griffon Vulture inhabit?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Asia",
+      "B": "All of these",
+      "C": "Europe",
+      "D": "Africa"
+    }
+  },
+  {
+    "question": "What hyena species is the largest surviving on the planet?",
+    "correct": " Spotted Hyena",
+    "choices": {
+      "A": "Aardwolf",
+      "B": "Spotted Hyena",
+      "C": "Striped Hyena",
+      "D": "Brown Hyena"
+    }
+  },
+  {
+    "question": "What is the color of the eggs of all parrot species?",
+    "correct": " White",
+    "choices": {
+      "A": "White",
+      "B": "Green",
+      "C": "Multicolored",
+      "D": "Blue"
+    }
+  },
+  {
+    "question": "Which of these makes Cockatoos different from other parrot species?",
+    "correct": " All of these",
+    "choices": {
+      "A": "They have a gall bladder.",
+      "B": "All of these",
+      "C": "They are not so colorful as other parrots.",
+      "D": "They have a headcrest."
+    }
+  },
+  {
+    "question": "This cat breed has a wild markings and is a crossbreed between an Asian Leopard Cat and a domestic cat.",
+    "correct": " Bengal",
+    "choices": {
+      "A": "Bengal",
+      "B": "Ocicat",
+      "C": "Savannah",
+      "D": "California Spangled Cat"
+    }
+  },
+  {
+    "question": "What cat breed, also called the Greyhound of the cats, has no hair except for down?",
+    "correct": " Cornish Rex",
+    "choices": {
+      "A": "Don Sphynx",
+      "B": "Oriental Bicolour",
+      "C": "Cornish Rex",
+      "D": "Sokoke"
+    }
+  },
+  {
+    "question": "Which of these statements is true about the digestive tract of rabbits?",
+    "correct": " They are hindgut digesters.",
+    "choices": {
+      "A": "Their cecum, together with the large intestine, comprises about 25-30% of rabbits digestive tract.",
+      "B": "They are hindgut digesters.",
+      "C": "All of these",
+      "D": "Their cecum is about 5 times bigger than their stomach."
+    }
+  },
+  {
+    "question": "Scorpions are not found naturally in this geographical area.",
+    "correct": " New Zealand",
+    "choices": {
+      "A": "Australia",
+      "B": "Europe",
+      "C": "New Zealand",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What type of behavior is characteristic of scorpion species?",
+    "correct": " Photophobic behavior",
+    "choices": {
+      "A": "Photophobic behavior",
+      "B": "Hydrophobic behavior",
+      "C": "All of these",
+      "D": "Phonophobic behavior"
+    }
+  },
+  {
+    "question": "What does the flamboyant flower beetle, also known as striped love beetle, feed on?",
+    "correct": " Nectar",
+    "choices": {
+      "A": "Insects",
+      "B": "Nectar",
+      "C": "Blood",
+      "D": "Carrion"
+    }
+  }
+]

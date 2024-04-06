@@ -1,76 +1,64 @@
 import os
 import pandas as pd
 import numpy as np
-def txt_to_csv(path): 
-  """
-  The csv Generarted will be such:
-    |Questions | Correct | A | B | C | D |
-  0 |  myQ     |    X    | a | X | c | d |  
-  """   
-  questions=[]
-  key=[]
-  dist1=[]
-  dist2=[]
-  dist3=[]
-  dist4=[]
-  with open(path, errors='ignore',mode="r") as file1:
-      files = file1.readlines()
-      i=0
-      for i in range(len(files)):
-        if files[i][0]=='\n':
-          try:
-            if files[i+1][3]=='#':
-              continue          
-            questions.append(files[i+1][3:len(files)-1])
-            key.append(files[i+2][2:len(files[i+2])-1])
-            if (files[i+3]!="\n"):
-              dist1.append(files[i+3][2:len(files[i+3])-1])
-            else:
-              dist1.append(np.nan)
-              dist2.append(np.nan)
-              dist3.append(np.nan)
-              dist4.append(np.nan)
-              continue
-            if (files[i+4]!="\n"):
-              dist2.append(files[i+4][2:len(files[i+4])-1])
-            else:
-              dist2.append(np.nan)
-              dist3.append(np.nan)
-              dist4.append(np.nan)
-              continue
-            if (files[i+5]!="\n"):
-              dist3.append(files[i+5][2:len(files[i+5])-1])
-            else:
-              dist3.append(np.nan)
-              dist4.append(np.nan)
-              continue
-            if (files[i+6]!="\n"):
-              dist4.append(files[i+6][2:len(files[i+6])-1])
-            else:
-              dist4.append(np.nan)
-          except:
-            pass
-  bank={}
-  bank["Questions"]=questions
-  bank["Correct"]=key
-  bank["A"]=dist1
-  bank["B"]=dist2
-  bank["C"]=dist3
-  bank["D"]=dist4
-  df=pd.DataFrame(bank)
-  return df
 
-def parse_files(sourcePath='/content/drive/MyDrive/Colab Notebooks/Data_trivial/',destination='/content/drive/MyDrive/Colab Notebooks/Data_trivial_csv/'):
-  """
-  Input SourcePath and Destination Path to trverse through the files and convert them into csv
-  Requirement Python 3.x , Numpy , os , Pandas
-  or run this in Google Colab as it is
-  """
-  filenames=sourcePath
-  for files in os.listdir(filenames):
-     path=filenames+files
-     data=txt_to_csv(path)
-     data.to_csv(destination+files+'.csv')
+def txt_to_csv(path):
+    """Converts trivia questions from text files to a structured CSV format, excluding true/false questions."""
+    questions, key, dist1, dist2, dist3, dist4 = [], [], [], [], [], []
+    with open(path, 'r', encoding='utf-8', errors='ignore') as file:
+        lines = file.readlines()
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            if line.startswith("#Q"):
+                question_text = line[3:]
+                answer_key_line = lines[i + 1].strip()
+                answer_key = answer_key_line[1:] if answer_key_line.startswith("^") else np.nan
 
-print(' Input SourcePath and Destination Path to trverse through the files and convert them into csv \n  Requirement Python 3.x , Numpy , os , Pandas \n  or run this in Google Colab as it is')
-parse_files(sourcePath=input('SourcePath'),destination=input('Destination Path'))
+                # Collect options
+                options = lines[i + 2:i + 6]
+                options_text = [opt.strip()[2:].strip() for opt in options if opt.strip() and opt.strip()[0] in ['A', 'B', 'C', 'D']]
+                
+                # Only add to the list if all four options are present and valid
+                if len(options_text) == 4 and all(opt not in ["True", "False"] for opt in options_text):
+                    questions.append(question_text)
+                    key.append(answer_key)
+                    dist1.append(options_text[0])
+                    dist2.append(options_text[1])
+                    dist3.append(options_text[2])
+                    dist4.append(options_text[3])
+
+                # Move index to the line after the last option
+                i += 6
+            else:
+                # Move to the next line if not a question block
+                i += 1
+
+    return pd.DataFrame({
+        "Questions": questions,
+        "Correct": key,
+        "A": dist1,
+        "B": dist2,
+        "C": dist3,
+        "D": dist4
+    })
+
+def parse_files(sourcePath, destination):
+    """Parses all .txt files in the sourcePath and saves them as .csv files in the destination."""
+    if not os.path.exists(destination):
+        os.makedirs(destination, exist_ok=True)
+    for file in os.listdir(sourcePath):
+        if file.endswith('.txt'):
+            print(f"Processing {file}...")
+            full_path = os.path.join(sourcePath, file)
+            csv_data = txt_to_csv(full_path)
+            csv_filename = os.path.splitext(file)[0] + '.csv'
+            csv_data.to_csv(os.path.join(destination, csv_filename), index=False)
+            print(f"Saved to {csv_filename}")
+
+# Example paths (replace with your actual paths)
+sourcePath = '/Users/matthieudebeaucorps/Desktop/Projects/trivia/categories'
+destination = '/Users/matthieudebeaucorps/Desktop/Projects/trivia/categories_csv'
+
+# Process the files
+parse_files(sourcePath, destination)

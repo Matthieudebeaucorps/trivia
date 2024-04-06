@@ -1,0 +1,1442 @@
+[
+  {
+    "question": "What is the capital of Israel?",
+    "correct": " Jerusalem",
+    "choices": {
+      "A": "Tel Aviv",
+      "B": "Kabul",
+      "C": "Jerusalem",
+      "D": "Islamabad"
+    }
+  },
+  {
+    "question": "This is the longest river in Asia and its Chinese name, Chang Jiang, is literally translated to Long River. The critically endangered Chinese River Dolphin and Chinese paddlefish live only in this river. It takes its source in the Qinghai Province, flows for 6,380km (3964miles) and finally empties into the East China Sea. What is the name of this river?",
+    "correct": " Yangtze",
+    "choices": {
+      "A": "Irtysh",
+      "B": "Huai River",
+      "C": "Yangtze",
+      "D": "Mekong"
+    }
+  },
+  {
+    "question": "Victoria Falls is one of the most spectacular waterfalls in the world. The falls are named after Queen Victoria by David Livingstone, the explorer who visited them in 1855. The falls are 128 m (420 ft) high and are situated on this river.",
+    "correct": " Zambezi",
+    "choices": {
+      "A": "Zambezi",
+      "B": "Congo",
+      "C": "Gambia",
+      "D": "Orange"
+    }
+  },
+  {
+    "question": "Which continents are entirely in the Western Hemisphere?",
+    "correct": " North America and South America",
+    "choices": {
+      "A": "North America, Europe, and Asia",
+      "B": "Europe, Asia, Africa, Australia",
+      "C": "Australia and Antarctica",
+      "D": "North America and South America"
+    }
+  },
+  {
+    "question": "Which of these mountains is highest?",
+    "correct": " Mount McKinley",
+    "choices": {
+      "A": "Puncak Jaya",
+      "B": "Mount McKinley",
+      "C": "Mount Elbrus",
+      "D": "Mount Kilimanjaro"
+    }
+  },
+  {
+    "question": "Which of these oceans has the greatest depth?",
+    "correct": " Pacific Ocean",
+    "choices": {
+      "A": "Pacific Ocean",
+      "B": "Indian Ocean",
+      "C": "Atlantic Ocean",
+      "D": "Arctic Ocean"
+    }
+  },
+  {
+    "question": "Chauvet Cave and Meyrieres Cave are two caves located in this European state.",
+    "correct": " France",
+    "choices": {
+      "A": "France",
+      "B": "Netherlands",
+      "C": "Spain",
+      "D": "Belgium"
+    }
+  },
+  {
+    "question": "Is it true that Yasseir Arafat became chairman of the Palestinian Liberation Organization in 2004?",
+    "correct": " No",
+    "choices": {
+      "A": "Yes",
+      "B": "No",
+      "C": null,
+      "D": " What are the three Benelux countries?"
+    }
+  },
+  {
+    "question": "Did the 13 colonies declare their independence in 1776?",
+    "correct": " Yes",
+    "choices": {
+      "A": "No",
+      "B": "Yes",
+      "C": null,
+      "D": " Europe is the smallest continent."
+    }
+  },
+  {
+    "question": "What was the former name of the city of Istanbul ?",
+    "correct": " Constantinople",
+    "choices": {
+      "A": "Constantinople",
+      "B": "Persia",
+      "C": "Zaire",
+      "D": "Siam"
+    }
+  },
+  {
+    "question": "Measuring at the Equator, what is the closest approximation of the Earths circumference?",
+    "correct": " 24,900 miles",
+    "choices": {
+      "A": "24,900,000 miles",
+      "B": "24,900 miles",
+      "C": "249,000 miles",
+      "D": "2,490,000 miles"
+    }
+  },
+  {
+    "question": "The highest mountain peak on our planet is Mount Everest. It was first climbed by Edmund Hillary and Tenzing Norgay on May 29, 1953. What is the home country of Sir Edmund Hillary?",
+    "correct": " New Zealand",
+    "choices": {
+      "A": "United Kingdom",
+      "B": "The United States",
+      "C": "France",
+      "D": "New Zealand"
+    }
+  },
+  {
+    "question": "This freshwater-lake island, with a surface area of 2,766 km², is the biggest on Earth.",
+    "correct": " Manitoulin Island",
+    "choices": {
+      "A": "Islandlake",
+      "B": "Ainslie",
+      "C": "Manitoulin Island",
+      "D": "Isle of Wight"
+    }
+  },
+  {
+    "question": "If magma contains more than 65% silica, the lava is called this.",
+    "correct": " felsic or acidic",
+    "choices": {
+      "A": "felsic or acidic",
+      "B": "thick",
+      "C": "mafic or basic",
+      "D": "dense"
+    }
+  },
+  {
+    "question": "Yellowstone Caldera is considered a supervolcano because within the past two million years it has erupted extremely violently three times . The most recent eruption occurred this long ago, and spread volcanic ash over most of the North American continent.",
+    "correct": " 640,000 years",
+    "choices": {
+      "A": "1,510,000 years",
+      "B": "40,000 years",
+      "C": "640,000 years",
+      "D": "17,000 years"
+    }
+  },
+  {
+    "question": "North to the Future is the official motto of this US state, which is the largest in area.",
+    "correct": " Alaska",
+    "choices": {
+      "A": "Texas",
+      "B": "Alaska",
+      "C": "Nevada",
+      "D": "Colorado"
+    }
+  },
+  {
+    "question": "This volcano, which is the largest in Europe, is located on the largest island in the Mediterranean Sea.",
+    "correct": " Mount Etna",
+    "choices": {
+      "A": "Mount Etna",
+      "B": "Hekla",
+      "C": "El Misti",
+      "D": "Santorini"
+    }
+  },
+  {
+    "question": "What volcano located on the island of Tenerife represents the highest mountain on Spanish territories?",
+    "correct": " Teide",
+    "choices": {
+      "A": "Teide",
+      "B": "Stromboli",
+      "C": "Santorini",
+      "D": "Duvalo"
+    }
+  },
+  {
+    "question": "England, Norway, Belgium and Denmark all border this sea.",
+    "correct": " North sea",
+    "choices": {
+      "A": "Baltic sea",
+      "B": "Black sea",
+      "C": "North sea",
+      "D": "Aegean sea"
+    }
+  },
+  {
+    "question": "In the beginning of the new millennium, Russias, Iraqs and Saudi Arabias oil reserves were above 100 billion bbl.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " USA is considered to be one of the most popular destinations, where thousands of immigrants come to seek asylum. Just one of these four states is similar in to USA in this respect."
+    }
+  },
+  {
+    "question": "Ireland, Germany and Austria are famous for the high consumption of this alcohol.",
+    "correct": " Beer",
+    "choices": {
+      "A": "Brandy",
+      "B": "Beer",
+      "C": "Wine",
+      "D": "Vodka"
+    }
+  },
+  {
+    "question": "All of these countries and commonwealth territories have a high divorce rate except one.",
+    "correct": " Sri Lanka",
+    "choices": {
+      "A": "Puerto Rico",
+      "B": "Russia",
+      "C": "Sri Lanka",
+      "D": "Qatar"
+    }
+  },
+  {
+    "question": "This is the largest island in the Mediterranean Sea, famous for one of the worlds most active volcanoes - Etna.",
+    "correct": " Sicily",
+    "choices": {
+      "A": "Sicily",
+      "B": "Crete",
+      "C": "Sardinia",
+      "D": "Corse"
+    }
+  },
+  {
+    "question": "Which of these national costumes is closely related to Sikhism - a religion that comes from 16th-century northern India?",
+    "correct": " Turban",
+    "choices": {
+      "A": "Khalsa",
+      "B": "Sari",
+      "C": "Turban",
+      "D": "Sayyid"
+    }
+  },
+  {
+    "question": "According to the legend, which of these is a part of the Three Fortunate Concealments that protect Britain from any danger coming from the sea?",
+    "correct": " The head of Bran the Blessed",
+    "choices": {
+      "A": "The head of Bran the Blessed",
+      "B": "Stone of Destiny",
+      "C": "The Dragons",
+      "D": "The bones of Gwerthefyr the Blessed"
+    }
+  },
+  {
+    "question": "The Badwater basin, the lowest point in North America, is located in which US valley?",
+    "correct": " Death Valley",
+    "choices": {
+      "A": "Sun Valley",
+      "B": "Death Valley",
+      "C": "Big Smoky Valley",
+      "D": "Hudson Valley"
+    }
+  },
+  {
+    "question": "The Sonoma Valley in California is famous in the USA for its long-lived and high quality wine industry.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The Menomonee Valley along the Menomonee River in Milwaukee, Wisconsin has what peculiar shape?"
+    }
+  },
+  {
+    "question": "Owens Valley, the arid ranching valley of the Owens River, stretches for approximately 75 miles (120 km) on the territory of which US state?",
+    "correct": " California",
+    "choices": {
+      "A": "California",
+      "B": "Arkansas",
+      "C": "Alabama",
+      "D": "Arizona"
+    }
+  },
+  {
+    "question": "In 1776, 400 British and Hessian troops land in The Bronx.  A group of 400 American troops held them off while Washington got the main army away safely.  What was this battle called ?",
+    "correct": " The Battle of Pells Point",
+    "choices": {
+      "A": "The Battle of Pells Point",
+      "B": "The Battle of Throgs Neck",
+      "C": "The Battle of Eastchester",
+      "D": "The Battle of The Bronx"
+    }
+  },
+  {
+    "question": "Little Rock is the capital and most populous city of this US state.",
+    "correct": " Arkansas",
+    "choices": {
+      "A": "Arkansas",
+      "B": "Wichita",
+      "C": "Kansas",
+      "D": "Topeka"
+    }
+  },
+  {
+    "question": "What US state is known as The Volunteer State?",
+    "correct": " Tennessee",
+    "choices": {
+      "A": "Utah",
+      "B": "Delaware",
+      "C": "Tennessee",
+      "D": "Colorado"
+    }
+  },
+  {
+    "question": "Which country has the river Danube as most of its northern border?",
+    "correct": " Bulgaria",
+    "choices": {
+      "A": "Austria",
+      "B": "Hungary",
+      "C": "Bulgaria",
+      "D": "Romania"
+    }
+  },
+  {
+    "question": "Which European Union member has the greatest number of islands?",
+    "correct": " Greece",
+    "choices": {
+      "A": "Greece",
+      "B": "Italy",
+      "C": "UK",
+      "D": "Denmark"
+    }
+  },
+  {
+    "question": "In which European Union member the native people make up only 60% of the total population?",
+    "correct": " Latvia",
+    "choices": {
+      "A": "Poland",
+      "B": "Austria",
+      "C": "Latvia",
+      "D": "France"
+    }
+  },
+  {
+    "question": "Which EU member state was known to the ancient Greeks and Romans as Dacia?",
+    "correct": " Romania",
+    "choices": {
+      "A": "Macedonia",
+      "B": "Bulgaria",
+      "C": "Romania",
+      "D": "Slovenia"
+    }
+  },
+  {
+    "question": "All but three European Union official languages are from the Indo-European family. They are Finnish, Estonian and which other language?",
+    "correct": " Hungarian",
+    "choices": {
+      "A": "Greek",
+      "B": "Hungarian",
+      "C": "Polsih",
+      "D": "Bulgarian"
+    }
+  },
+  {
+    "question": "Where was the colonial settlement New Amsterdam located?",
+    "correct": " The state of New York",
+    "choices": {
+      "A": "UK",
+      "B": "New Jersey",
+      "C": "Holland",
+      "D": "The state of New York"
+    }
+  },
+  {
+    "question": "Which of the following countries and states shares its name with its capital city?",
+    "correct": " Luxembourg",
+    "choices": {
+      "A": "New York",
+      "B": "Malta",
+      "C": "Luxembourg",
+      "D": "Oklahoma"
+    }
+  },
+  {
+    "question": "What two colors are featured on the flag and coat of arms of Malta, a country consisting of seven Mediterranean islands?",
+    "correct": " White and red",
+    "choices": {
+      "A": "Green and black",
+      "B": "Yellow and purple",
+      "C": "White and red",
+      "D": "Blue and yellow"
+    }
+  },
+  {
+    "question": "On April 11, 2002, Al-Qaeda carried out a terrorist attack near a synagogue on which Tunisian island?",
+    "correct": " Djerba",
+    "choices": {
+      "A": "Djerba",
+      "B": "Yalikavak",
+      "C": "Salih Ada",
+      "D": "Kargi Adasi"
+    }
+  },
+  {
+    "question": "This military complex in North Carolina is one of the largest in the world and home to the 82 Airborne, the Golden Knights, and U.S. Army Special Operations Command.",
+    "correct": " Fort Bragg",
+    "choices": {
+      "A": "Fort Bragg",
+      "B": "Fort Campbell",
+      "C": "Fort Polk",
+      "D": "Fort Dix"
+    }
+  },
+  {
+    "question": "What sea captain claimed British possession of the eastern part of Australia in 1770 naming it New South Wales?",
+    "correct": " James Cook",
+    "choices": {
+      "A": "James Cook",
+      "B": "Horatio Nelson",
+      "C": "Cuthbert Collingwood",
+      "D": "Arthur Phillip"
+    }
+  },
+  {
+    "question": "Mount Erebus is a volcano located on this continent.",
+    "correct": " Antarctica",
+    "choices": {
+      "A": "Antarctica",
+      "B": "Europe",
+      "C": "South America",
+      "D": "Asia"
+    }
+  },
+  {
+    "question": "It is practically impossible to drown unwillingly in the Dead Sea.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " To which countrys territory does the Dead Sea belong?"
+    }
+  },
+  {
+    "question": "What is the average salinity of the Dead Sea?",
+    "correct": " 30 %",
+    "choices": {
+      "A": "11 %",
+      "B": "30 %",
+      "C": "49 %",
+      "D": "54 %"
+    }
+  },
+  {
+    "question": "No animals or plants live in the Dead Sea .",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " What famous California prison was home to Charles Manson?"
+    }
+  },
+  {
+    "question": "American politician John McCain was incarcerated at the infamous Hoa Loa Prison, ironically called Hanoi Hilton.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The Rosenbergs, who were convicted of conspiracy, were held at what prison?"
+    }
+  },
+  {
+    "question": "The Tower of London was built primarily to function as a fortress, a royal palace and a prison.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Attica Prison was the locale of a 1975 riot that resulted in 38 deaths."
+    }
+  },
+  {
+    "question": "The Kremlin, a historic fortified complex at the heart of Moscow, overlooks this square to the east.",
+    "correct": " Red Square",
+    "choices": {
+      "A": "Black Square",
+      "B": "Azadi Square",
+      "C": "Palace Square",
+      "D": "Red Square"
+    }
+  },
+  {
+    "question": "What city in Eastern Europe, often associated with the story of Dracula, is also famous for Revolution Square, which was the site of a 1989 revolt?",
+    "correct": " Bucharest",
+    "choices": {
+      "A": "Bucharest",
+      "B": "Warsaw",
+      "C": "Budapest",
+      "D": "Prague"
+    }
+  },
+  {
+    "question": "What South American island is shared by Chile and Argentina?",
+    "correct": " Tierra Del Fuego",
+    "choices": {
+      "A": "Islas Malvinas",
+      "B": "Tierra Del Fuego",
+      "C": "Islas Galapagos",
+      "D": "Isla De Pascua"
+    }
+  },
+  {
+    "question": "This tiny Caribbean island is shared by France and the Netherlands.",
+    "correct": " St. Martin",
+    "choices": {
+      "A": "St. Lucia",
+      "B": "St. Mark",
+      "C": "St. Martin",
+      "D": "St. Bartholomew"
+    }
+  },
+  {
+    "question": "What sea is known to be the only sea without shores?",
+    "correct": " The Sargasso Sea",
+    "choices": {
+      "A": "The Sargasso Sea",
+      "B": "The Norwegian Sea",
+      "C": "The Labrador Sea",
+      "D": "The Celtic Sea"
+    }
+  },
+  {
+    "question": "Which man-made island, located to the southwest of Singapore, was created by joining several natural islands?",
+    "correct": " Jurong Island",
+    "choices": {
+      "A": "Formoza",
+      "B": "Jurong Island",
+      "C": "Spiral Island",
+      "D": "Neeltje-Jans"
+    }
+  },
+  {
+    "question": "Spiral Island, a small Mexican artificial floating island, was situated on the coast of which sea?",
+    "correct": " The Caribbean Sea",
+    "choices": {
+      "A": "The Black Sea",
+      "B": "The Caribbean Sea",
+      "C": "The Aegean Sea",
+      "D": "The North Sea"
+    }
+  },
+  {
+    "question": "Which former Yugoslavian republic was the first to be admitted to the European Union?",
+    "correct": " Slovenia",
+    "choices": {
+      "A": "Macedonia",
+      "B": "Serbia",
+      "C": "Croatia",
+      "D": "Slovenia"
+    }
+  },
+  {
+    "question": "The name of which US state means large creek in the Seneca language?",
+    "correct": " Ohio",
+    "choices": {
+      "A": "Idaho",
+      "B": "Ohio",
+      "C": "Texas",
+      "D": "Wisconsin"
+    }
+  },
+  {
+    "question": "The largest city in what US state hosts Summerfest, or The Worlds Largest Music Festival?",
+    "correct": " Wisconsin",
+    "choices": {
+      "A": "New Jersey",
+      "B": "Wisconsin",
+      "C": "Kentucky",
+      "D": "Maryland"
+    }
+  },
+  {
+    "question": "Who was the first  female  President of the Philippines?",
+    "correct": " Corazon Aquino",
+    "choices": {
+      "A": "Eleanor Concepcion",
+      "B": "Louiza Rizal",
+      "C": "Ramona  Magsaysay",
+      "D": "Corazon Aquino"
+    }
+  },
+  {
+    "question": "In 1860 South Carolina became the first state to secede from the Union.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " South Carolina is the state whose shape most closely resembles a triangle."
+    }
+  },
+  {
+    "question": "The Grand Strand is a long stretch of sandy beach situated near which of the following?",
+    "correct": " Myrtle Beach",
+    "choices": {
+      "A": "Hilton Head",
+      "B": "Follie Beach",
+      "C": "Myrtle Beach",
+      "D": "Charleston"
+    }
+  },
+  {
+    "question": "What does the name of the U.S. state of Utah mean in the Ute language?",
+    "correct": " People of the mountains",
+    "choices": {
+      "A": "Spirits of the rivers",
+      "B": "Children of the winds",
+      "C": "People of the mountains",
+      "D": "Land around the great lake"
+    }
+  },
+  {
+    "question": "The Black Sea city of Sukhumi is the capital of this republic that proclaimed its independence from Georgia in the 90s.",
+    "correct": " Abkhazia",
+    "choices": {
+      "A": "Ajaria",
+      "B": "Iberia",
+      "C": "Ossetia",
+      "D": "Abkhazia"
+    }
+  },
+  {
+    "question": "The summit ridge of Mount Everest marks the border between which two Asian countries?",
+    "correct": " China and Nepal",
+    "choices": {
+      "A": "India and China",
+      "B": "Nepal and India",
+      "C": "China and Georgia",
+      "D": "China and Nepal"
+    }
+  },
+  {
+    "question": "Which of the following paths is one of the two most popular climbing routes to Mount Everest?",
+    "correct": " The southeast ridge from Nepal",
+    "choices": {
+      "A": "The south ridge from Tibet",
+      "B": "The east ridge from Pakistan",
+      "C": "The west ridge from India",
+      "D": "The southeast ridge from Nepal"
+    }
+  },
+  {
+    "question": "This is the third-largest island on the planet, and it is also known as Kalimantan.",
+    "correct": " Borneo",
+    "choices": {
+      "A": "Bali",
+      "B": "Borneo",
+      "C": "Taiwan",
+      "D": "Java"
+    }
+  },
+  {
+    "question": "The capital of this island country is Kingston.",
+    "correct": " Jamaica",
+    "choices": {
+      "A": "Jamaica",
+      "B": "Haiti",
+      "C": "Hispaniola",
+      "D": "Cuba"
+    }
+  },
+  {
+    "question": "Which statement is true about the explorer and glaciologist Albert P. Crary?",
+    "correct": " He was the first person to reach both the North and South Poles.",
+    "choices": {
+      "A": "He was the first person to set foot on Antarctica.",
+      "B": "He was the first pilot to fly across the South Pole.",
+      "C": "He was the first person to build a home above the Arctic Circle.",
+      "D": "He was the first person to reach both the North and South Poles."
+    }
+  },
+  {
+    "question": "What river flows through ten European countries and is the longest in the European Union?",
+    "correct": " Danube",
+    "choices": {
+      "A": "Rhine",
+      "B": "Dnieper",
+      "C": "Danube",
+      "D": "Elbe"
+    }
+  },
+  {
+    "question": "The Filipino word Bulaklak means flower in English.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " What does the Filipino word lungsod mean in English?"
+    }
+  },
+  {
+    "question": "The Filipino word pangalan means name in English. What does the word pangngalan mean?",
+    "correct": " noun",
+    "choices": {
+      "A": "address",
+      "B": "adjective",
+      "C": "noun",
+      "D": "verb"
+    }
+  },
+  {
+    "question": "What Filipino word means money in English?",
+    "correct": " pera",
+    "choices": {
+      "A": "tindahan",
+      "B": "mura",
+      "C": "pera",
+      "D": "wala"
+    }
+  },
+  {
+    "question": "These islands were the original spice islands, which have drawn traders from all over the world for thousands of years, and were a major factor in causing the European age of exploration, as explorers set out to find the fabled East Indies.",
+    "correct": " Ternate, Tidore and Banda",
+    "choices": {
+      "A": "Ternate, Tidore and Banda",
+      "B": "Timor, Flores and Sumba",
+      "C": "Celebes and New Guinea",
+      "D": "Sumatra and Borneo"
+    }
+  },
+  {
+    "question": "Wichita, the county seat of Sedgwick County, is nicknamed what?",
+    "correct": " Air Capital",
+    "choices": {
+      "A": "Air Capital",
+      "B": "Mountain Capital",
+      "C": "Plain Capital",
+      "D": "River capital"
+    }
+  },
+  {
+    "question": "This multifunctional facility is located at 225 West Douglas, Wichita, Kansas.",
+    "correct": " Century II Convention center",
+    "choices": {
+      "A": "Exploration Place",
+      "B": "None of these",
+      "C": "Century II Convention center",
+      "D": "Hyatt hotel"
+    }
+  },
+  {
+    "question": "What is the name of the European peninsula on which Italy is located?",
+    "correct": " Italian Peninsula",
+    "choices": {
+      "A": "Scandinavian Peninsula",
+      "B": "Iberian Peninsula",
+      "C": "Italian Peninsula",
+      "D": "Balkan Peninsula"
+    }
+  },
+  {
+    "question": "What is the title of the national anthem of the Italian Republic?",
+    "correct": " The Song of the Italians",
+    "choices": {
+      "A": "The Italian Anthem",
+      "B": "The Song of the Italians",
+      "C": "Italia, Land of Glory",
+      "D": "Italian Dream"
+    }
+  },
+  {
+    "question": "The Mason Dixon Line is a demarcation line surveyed between 1763 and 1767 by Charles Mason and Jeremiah Dixon to determine what?",
+    "correct": " The boundary between Maryland and Pennsylvania",
+    "choices": {
+      "A": "The boundary between the confederacy and the union",
+      "B": "The boundary between the slave states and free states",
+      "C": "The boundary between Maryland and Pennsylvania",
+      "D": "The boundary between southern colonies and northern colonies"
+    }
+  },
+  {
+    "question": "How tall is Mount Everest?",
+    "correct": " 8,849 m",
+    "choices": {
+      "A": "8,859 m",
+      "B": "8,849 m",
+      "C": "8,850 m",
+      "D": "8,840 m"
+    }
+  },
+  {
+    "question": "The term Death Zone refers to what altitude?",
+    "correct": " above 8,000 m",
+    "choices": {
+      "A": "above 8,100 m",
+      "B": "above 8,000 m",
+      "C": "above 7,900 m",
+      "D": "above 7,500 m"
+    }
+  },
+  {
+    "question": "What is the birthplace of Johann Strauss II, also known as The Waltz King?",
+    "correct": " Vienna",
+    "choices": {
+      "A": "Salzburg",
+      "B": "Vienna",
+      "C": "Berlin",
+      "D": "Prague"
+    }
+  },
+  {
+    "question": "What islands are knows as “The beautiful garland in the Indian Ocean”?",
+    "correct": " Maldives Islands",
+    "choices": {
+      "A": "Aeolian Islands",
+      "B": "Pontine Islands",
+      "C": "Flegrean Islands",
+      "D": "Maldives Islands"
+    }
+  },
+  {
+    "question": "This European island is situated in the North Atlantic Ocean, south of the Arctic Circle. Its largest city is Reykjavik.",
+    "correct": " Iceland",
+    "choices": {
+      "A": "Iceland",
+      "B": "Ireland",
+      "C": "Greenland",
+      "D": "None of these"
+    }
+  },
+  {
+    "question": "What is the meaning of the name of Spain according to a popular theory?",
+    "correct": " All of these",
+    "choices": {
+      "A": "Land of rabbits",
+      "B": "All of these",
+      "C": "Edge",
+      "D": "Land of the setting sun"
+    }
+  },
+  {
+    "question": "What is the main ingredient of the traditional Spanish dish paella?",
+    "correct": " Rice",
+    "choices": {
+      "A": "Lentils",
+      "B": "Rice",
+      "C": "Dough",
+      "D": "Potatoes"
+    }
+  },
+  {
+    "question": "What best describes the climate of Eilat?",
+    "correct": " Hot and dry all year",
+    "choices": {
+      "A": "Hot and dry all year",
+      "B": "Humid and hot  summers and humid and cool winters",
+      "C": "Humid, hot summers and dry, cool winters",
+      "D": "Hot, dry summers and humid, cool winters"
+    }
+  },
+  {
+    "question": "On October 24, 1901, Annie Edson Taylor became the first person to go over the Niagara Falls in a barrel as a publicity stunt. How old was she at the time?",
+    "correct": " 63",
+    "choices": {
+      "A": "63",
+      "B": "23",
+      "C": "43",
+      "D": "33"
+    }
+  },
+  {
+    "question": "What event related to the Niagara Falls occurred on March 29th 1848?",
+    "correct": " The flow of water over both falls stopped to the point where people could walk around the riverbed.",
+    "choices": {
+      "A": "The flow of water over both falls stopped to the point where people could walk around the riverbed.",
+      "B": "The flow of water was stopped completely over the American Falls.",
+      "C": "The waterfalls were named",
+      "D": "A third, much smaller waterfall was discovered."
+    }
+  },
+  {
+    "question": "What U.S. state is nicknamed Land of Infinite Variety?",
+    "correct": " South Dakota",
+    "choices": {
+      "A": "South Carolina",
+      "B": "Florida",
+      "C": "Delaware",
+      "D": "South Dakota"
+    }
+  },
+  {
+    "question": "What nickname has been given to the U.S. state of Rhode Island?",
+    "correct": " Ocean State",
+    "choices": {
+      "A": "Ocean State",
+      "B": "Marine State",
+      "C": "Island State",
+      "D": "All of these"
+    }
+  },
+  {
+    "question": "What is the capital of Slovenia?",
+    "correct": " Ljubljana",
+    "choices": {
+      "A": "Prague",
+      "B": "Bratislava",
+      "C": "Ljubljana",
+      "D": "Zagreb"
+    }
+  },
+  {
+    "question": "What design is depicted on the national flag of Switzerland?",
+    "correct": " Cross",
+    "choices": {
+      "A": "Sun",
+      "B": "Cross",
+      "C": "Star",
+      "D": "Leaf"
+    }
+  },
+  {
+    "question": "What is the title of the national anthem of Switzerland?",
+    "correct": " Swiss Psalm",
+    "choices": {
+      "A": "Swiss Vow",
+      "B": "Swiss Song",
+      "C": "Swiss Anthem",
+      "D": "Swiss Psalm"
+    }
+  },
+  {
+    "question": "Which of these seas surrounds the Korean Peninsula, in the northern part of which North Korea is located?",
+    "correct": " All of these",
+    "choices": {
+      "A": "All of these",
+      "B": "East China Sea",
+      "C": "Sea of Japan",
+      "D": "Yellow Sea"
+    }
+  },
+  {
+    "question": "Which of these musicians became the first US musical group ever to perform in North Korea?",
+    "correct": " The New York Philharmonic Orchestra",
+    "choices": {
+      "A": "The Black Eyed Peas",
+      "B": "The New York Philharmonic Orchestra",
+      "C": "The Helen Henderson Choir of Victory Baptist Church",
+      "D": "Linkin Park"
+    }
+  },
+  {
+    "question": "What is the meaning of the name of the Mississippi River, which originated from the Ojibwe word misi-ziibi?",
+    "correct": " Great river",
+    "choices": {
+      "A": "Holy water",
+      "B": "Fast river",
+      "C": "River of life",
+      "D": "Great river"
+    }
+  },
+  {
+    "question": "What is the name of the capital and largest city of Norway?",
+    "correct": " Oslo",
+    "choices": {
+      "A": "Reykjavik",
+      "B": "Bergen",
+      "C": "Oslo",
+      "D": "Helsinki"
+    }
+  },
+  {
+    "question": "What is the title of the national anthem of Norway?",
+    "correct": " Yes, We Love This Country",
+    "choices": {
+      "A": "Glory, Glory",
+      "B": "Oh, Amazing Land",
+      "C": "The Way North",
+      "D": "Yes, We Love This Country"
+    }
+  },
+  {
+    "question": "What is the title of the national anthem of Madagascar, written by Norbert Raharisoa and composed by Rahajason?",
+    "correct": " Oh, Our Beloved Fatherland",
+    "choices": {
+      "A": "Dear Motherland",
+      "B": "Blessed Island",
+      "C": "Oh, Our Beloved Fatherland",
+      "D": "Rise, Oh, Rise"
+    }
+  },
+  {
+    "question": "What type of meal is the godro-godro, which is very popular in the Madagascar cuisine?",
+    "correct": " Pudding",
+    "choices": {
+      "A": "Seafood meal",
+      "B": "Rice meal",
+      "C": "Pudding",
+      "D": "Vegetable stew"
+    }
+  },
+  {
+    "question": "From the 1600s to the 1800s, the British and Dutch were interested in Borneo because they wanted control of this resource.",
+    "correct": " Pepper",
+    "choices": {
+      "A": "Pepper",
+      "B": "Salt",
+      "C": "Coffee",
+      "D": "Tea"
+    }
+  },
+  {
+    "question": "Which island is NOT a part of Greece?",
+    "correct": " Gozo",
+    "choices": {
+      "A": "Kea",
+      "B": "Hydra",
+      "C": "Gozo",
+      "D": "Kos"
+    }
+  },
+  {
+    "question": "According to the Shinsengumi rules, if the leader of a unit is mortally wounded in a fight, what should the rest of the group do?",
+    "correct": " All members of the unit must fight and die on the spot.",
+    "choices": {
+      "A": "Run away",
+      "B": "Take the body and run away",
+      "C": "Commit Seppuku",
+      "D": "All members of the unit must fight and die on the spot."
+    }
+  },
+  {
+    "question": "What river is considered the longest river on the planet?",
+    "correct": " The Nile",
+    "choices": {
+      "A": "The Nile",
+      "B": "The Tigris",
+      "C": "The Mississippi",
+      "D": "The Amazon"
+    }
+  },
+  {
+    "question": "What is the name of the river in which Jesus Christ was baptized by John the Baptist?",
+    "correct": " The Jordan",
+    "choices": {
+      "A": "The Tigris",
+      "B": "The Jordan",
+      "C": "The Euphrates",
+      "D": "The Nile"
+    }
+  },
+  {
+    "question": "What does the national motto of India, Satyameva Jayate, mean in Sanskrit?",
+    "correct": " Truth Alone Triumphs",
+    "choices": {
+      "A": "The Supreme Treasure of Truth",
+      "B": "Truth Alone Triumphs",
+      "C": "Truth Is The Best Way",
+      "D": "Truth Is Divine"
+    }
+  },
+  {
+    "question": "The national motto of this Arabic country is God is the greatest.",
+    "correct": " Iraq",
+    "choices": {
+      "A": "Morocco",
+      "B": "Iran",
+      "C": "Syria",
+      "D": "Iraq"
+    }
+  },
+  {
+    "question": "Jog Falls is the highest plunge waterfall in this Asian country.",
+    "correct": " India",
+    "choices": {
+      "A": "India",
+      "B": "Japan",
+      "C": "China",
+      "D": "Thailand"
+    }
+  },
+  {
+    "question": "What is the old name of the country of Madagascar?",
+    "correct": " Malagasy Republic",
+    "choices": {
+      "A": "Rhodesia",
+      "B": "Mozambique",
+      "C": "Malaysia",
+      "D": "Malagasy Republic"
+    }
+  },
+  {
+    "question": "Which of the following is NOT located in the country of Madagascar?",
+    "correct": " Bodrum",
+    "choices": {
+      "A": "Nosy-Be",
+      "B": "Antananarivo",
+      "C": "Antsirabe",
+      "D": "Bodrum"
+    }
+  },
+  {
+    "question": "The country of Papua New Guinea gained its independence from this country in 1975.",
+    "correct": " Australia",
+    "choices": {
+      "A": "Mozambique",
+      "B": "Australia",
+      "C": "Indonesia",
+      "D": "New Zealand"
+    }
+  },
+  {
+    "question": "What is the literal translation of the title of the national anthem of Egypt, Bilady, Bilady, Bilady?",
+    "correct": " My country, my country, my country",
+    "choices": {
+      "A": "Amazing, amazing, amazing",
+      "B": "Sing, sing, sing",
+      "C": "My country, my country, my country",
+      "D": "Blessed, blessed, blessed"
+    }
+  },
+  {
+    "question": "Where was Omar Sharif, one of the most famous Egyptian actors, born?",
+    "correct": " Alexandria, Egypt",
+    "choices": {
+      "A": "Paris, France",
+      "B": "New York City, USA",
+      "C": "Hamburg, Germany",
+      "D": "Alexandria, Egypt"
+    }
+  },
+  {
+    "question": "Luxembourg was not involved in any 20th century war.",
+    "correct": " False",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " Which of the following organizations is Luxembourg a member of?"
+    }
+  },
+  {
+    "question": "Luxembourg has a population of approximately how many people?",
+    "correct": " one half million",
+    "choices": {
+      "A": "30,000",
+      "B": "one half million",
+      "C": "two million",
+      "D": "three and one half million"
+    }
+  },
+  {
+    "question": "The Eas a Chual Aluinn is the highest waterfall in this country.",
+    "correct": " Great Britain",
+    "choices": {
+      "A": "France",
+      "B": "China",
+      "C": "Sri Lanka",
+      "D": "Great Britain"
+    }
+  },
+  {
+    "question": "What is the name of the highest waterfall in North America?",
+    "correct": " James Bruce Falls",
+    "choices": {
+      "A": "Richard Brown Falls",
+      "B": "Johnathan Stevens Falls",
+      "C": "James Bruce Falls",
+      "D": "John Cliff Falls"
+    }
+  },
+  {
+    "question": "The Santorini volcanic islands are part of what European country?",
+    "correct": " Greece",
+    "choices": {
+      "A": "Denmark",
+      "B": "Spain",
+      "C": "Italy",
+      "D": "Greece"
+    }
+  },
+  {
+    "question": "This countrys national holidays include:",
+    "correct": " Independence Day, 10 December (date of independence from Spain, 1898)",
+    "choices": {
+      "A": "20 May (independence from US administration, 1902)",
+      "B": "Rebellion Day 26 July (1953)",
+      "C": "Cuba",
+      "D": "Chile"
+    }
+  },
+  {
+    "question": "Malcolm X, the founder of the Organization of Afro-American Unity,  was born in what US city?",
+    "correct": " Omaha",
+    "choices": {
+      "A": "Kansas City",
+      "B": "Omaha",
+      "C": "Saint Louis",
+      "D": "Belleville"
+    }
+  },
+  {
+    "question": "What is the capital of Illinois, the 21st US State?",
+    "correct": " Springfield",
+    "choices": {
+      "A": "Chicago",
+      "B": "Lincoln",
+      "C": "Springfield",
+      "D": "Omaha"
+    }
+  },
+  {
+    "question": "This African desert, famous for its enormous sand dunes, is considered the oldest desert in the world, having endured its current arid conditions for at least 80 million years.",
+    "correct": " Namib Desert",
+    "choices": {
+      "A": "Libyan Desert",
+      "B": "Kalahari Desert",
+      "C": "Namib Desert",
+      "D": "Kara Kum Desert"
+    }
+  },
+  {
+    "question": "Which central European countrys all pre-1989 neighbors do not exist any more? The country is now bordered by 7 states.",
+    "correct": " Poland",
+    "choices": {
+      "A": "Austria",
+      "B": "Poland",
+      "C": "Hungary",
+      "D": "Romania"
+    }
+  },
+  {
+    "question": "Phoenicia was an ancient civilization that spread maritime trade over the Mediterranean Sea. From where did the Phoenicians originate?",
+    "correct": " Modern day Liban (Sidon, Tyre)",
+    "choices": {
+      "A": "North Africa (Tunis, Algier)",
+      "B": "Sicily (Syracuse)",
+      "C": "Greek islands on the Aegean Sea",
+      "D": "Modern day Liban (Sidon, Tyre)"
+    }
+  },
+  {
+    "question": "Finish this Irish saying: A tune is more lasting than the song of birds. And a word is more lasting than ________.",
+    "correct": " the wealth of the world",
+    "choices": {
+      "A": "an old mans teeth",
+      "B": "the wealth of the world",
+      "C": "a maidens beauty",
+      "D": "a bottle of whiskey"
+    }
+  },
+  {
+    "question": "Complete the following Irish saying: If you want ______, always carry the back tooth of a horse with you.",
+    "correct": " money",
+    "choices": {
+      "A": "to go swimming",
+      "B": "beauty",
+      "C": "money",
+      "D": "to be the life of the party"
+    }
+  },
+  {
+    "question": "Tegucigalpa is the capital and largest city of this country.",
+    "correct": " Honduras",
+    "choices": {
+      "A": "Namibia",
+      "B": "Honduras",
+      "C": "Uzbekistan",
+      "D": "Laos"
+    }
+  },
+  {
+    "question": "This city is the capital of the Kingdom of Morocco.",
+    "correct": " Rabat",
+    "choices": {
+      "A": "Suva",
+      "B": "Yaounde",
+      "C": "Tehran",
+      "D": "Rabat"
+    }
+  },
+  {
+    "question": "Victoria is the capital of the Republic of Seychelles.",
+    "correct": " True",
+    "choices": {
+      "A": "False",
+      "B": "True",
+      "C": null,
+      "D": " Alaska used to be part of Russia."
+    }
+  },
+  {
+    "question": "What phrase means I love you in Russian?",
+    "correct": " Ya lyublyu tebya",
+    "choices": {
+      "A": "Eu te amo",
+      "B": "Ya lyublyu tebya",
+      "C": "Te iu besc",
+      "D": "Volim te"
+    }
+  },
+  {
+    "question": "Who is the first President of the Russian Federation?",
+    "correct": " Boris Yeltsin",
+    "choices": {
+      "A": "Mikhail Kasyanov",
+      "B": "Viktor Khristenko",
+      "C": "Boris Yeltsin",
+      "D": "Vladimir Putin"
+    }
+  },
+  {
+    "question": "Who commissioned  the St. Basils Cathedral?",
+    "correct": " Ivan the Terrible",
+    "choices": {
+      "A": "Ivan the Marvelous",
+      "B": "Ivan the Terrible",
+      "C": "Ivan the Ultimate",
+      "D": "Ivan the Magnificent"
+    }
+  },
+  {
+    "question": "What does the name of the U.S. state of Texas literally mean in Caddo?",
+    "correct": " Friends",
+    "choices": {
+      "A": "Vast",
+      "B": "Buffalo",
+      "C": "Wilderness",
+      "D": "Friends"
+    }
+  },
+  {
+    "question": "Which country is not a member of the Adriatic Euroregion?",
+    "correct": " Serbia",
+    "choices": {
+      "A": "Montenegro",
+      "B": "Albania",
+      "C": "Serbia",
+      "D": "Italy"
+    }
+  },
+  {
+    "question": "The Pyrenees-Mediterranean region is located along the border of which two countries?",
+    "correct": " France - Spain",
+    "choices": {
+      "A": "France - Italy",
+      "B": "Norway - Sweden",
+      "C": "France - Spain",
+      "D": "Spain - Portugal"
+    }
+  },
+  {
+    "question": "Early Colorado ranchers raised cattle, sheep, hogs, chickens, and turkeys, with the main focus on cattle.",
+    "correct": " True",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": null,
+      "D": " The huge grain industry in Colorado gives rise to breweries. Which of the following owns the biggest single site brewery located in Golden, Colorado?"
+    }
+  },
+  {
+    "question": "On May 5, 1920 two Italian-Americans, Nicola Sacco and Bartolomeo Vanzetti, were arrested, tried, and executed for the April 15, 1920 murders of a South Braintree paymaster and security guard and theft of the payroll.",
+    "correct": "hat did Sacco give as his alibi?",
+    "choices": {
+      "A": "He was at the Italian consulate in Boston.",
+      "B": "He was in Plymouth peddling fish at the time.",
+      "C": "He was visiting friends in West Bridgewater.",
+      "D": "He was at the Italian consulate in Boston."
+    }
+  },
+  {
+    "question": "What was the popular slogan of the Colorado Gold Rush?",
+    "correct": " Pikes Peak or Bust",
+    "choices": {
+      "A": "Westward Ho",
+      "B": "Colorado Gold to Go",
+      "C": "Go West Young Men",
+      "D": "Pikes Peak or Bust"
+    }
+  },
+  {
+    "question": "On which of the islands of Papua New Guinea is the active volcano Ulawun located?",
+    "correct": " New Britain",
+    "choices": {
+      "A": "New Britain",
+      "B": "New Guinea",
+      "C": "Bougainville",
+      "D": "New Ireland"
+    }
+  },
+  {
+    "question": "In what US state is the Fourpeaked Volcano, also known as Fourpeaked Mountain, situated?",
+    "correct": " Alaska",
+    "choices": {
+      "A": "Colorado",
+      "B": "Oregon",
+      "C": "Alaska",
+      "D": "Montana"
+    }
+  },
+  {
+    "question": "Which of these European countries shares a land border with Sweden?",
+    "correct": " Norway",
+    "choices": {
+      "A": "Switzerland",
+      "B": "Denmark",
+      "C": "Lithuania",
+      "D": "Norway"
+    }
+  },
+  {
+    "question": "What type of food is the popular Swedish dish called Surstromming?",
+    "correct": " Fish",
+    "choices": {
+      "A": "Fish",
+      "B": "Salad",
+      "C": "Soup",
+      "D": "Dessert"
+    }
+  },
+  {
+    "question": "What are the colors of the national flag of the Federative Republic of Brazil?",
+    "correct": " White, blue, green and yellow",
+    "choices": {
+      "A": "Yellow, green, black and blue",
+      "B": "White, blue, green and yellow",
+      "C": "Red, green and yellow",
+      "D": "Green and black"
+    }
+  },
+  {
+    "question": "On what day of the week does the parade of the famous Rio Carnival traditionally start?",
+    "correct": " Sunday",
+    "choices": {
+      "A": "Sunday",
+      "B": "Thursday",
+      "C": "Wednesday",
+      "D": "Friday"
+    }
+  }
+]
