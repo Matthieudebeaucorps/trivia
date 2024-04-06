@@ -22,7 +22,7 @@ Script for the game
 All the web files required for the different outcomes of the app.py
 
 #### txt. files:
-database for the questions, located in categories
+database for the questions, located in categories 
 
 #### csv files:
 Translated from .txt files (need to be updated as they don't support true or false)
